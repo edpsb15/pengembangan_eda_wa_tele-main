@@ -1,0 +1,344 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 521,
+            "label": "Pendidikan"
+        }
+    ],
+    "var": [
+        {
+            "val": 40,
+            "label": "Persentase Penduduk Kabupaten Samosir yang Masih Sekolah Menurut Kelompok Umur dan Jenis Kelamin",
+            "unit": "Persen",
+            "subj": "Pendidikan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Kelompok Umur Pendidikan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "7 - 12"
+        },
+        {
+            "val": 2,
+            "label": "13 - 15"
+        },
+        {
+            "val": 3,
+            "label": "16 - 18"
+        },
+        {
+            "val": 4,
+            "label": "19 - 24"
+        },
+        {
+            "val": 5,
+            "label": "7 - 15"
+        },
+        {
+            "val": 6,
+            "label": "7 - 24"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 107,
+            "label": "2007"
+        },
+        {
+            "val": 108,
+            "label": "2008"
+        },
+        {
+            "val": 109,
+            "label": "2009"
+        },
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "140341070": 98.14,
+        "140341080": 99.62,
+        "140341090": 99.53,
+        "140341100": 99.29,
+        "140341110": 98.99,
+        "140341120": 99.27,
+        "140341130": 99.71,
+        "140341140": 100,
+        "140341150": 100,
+        "140341160": 100,
+        "140351070": 97.66,
+        "140351080": 99.12,
+        "140351090": 99,
+        "140351100": 99.25,
+        "140351110": 98.38,
+        "140351120": 100,
+        "140351130": 99.74,
+        "140351140": 100,
+        "140351150": 98.22,
+        "140351160": 100,
+        "140361070": 97.9,
+        "140361080": 99.39,
+        "140361090": 99.28,
+        "140361100": 99.27,
+        "140361110": 98.72,
+        "140361120": 99.61,
+        "140361130": 99.72,
+        "140361140": 100,
+        "140361150": 99.18,
+        "140361160": 100,
+        "240341070": 95.33,
+        "240341080": 96.62,
+        "240341090": 96.14,
+        "240341100": 91.61,
+        "240341110": 97.39,
+        "240341120": 95.36,
+        "240341130": 95.35,
+        "240341140": 100,
+        "240341150": 95.74,
+        "240341160": 100,
+        "240351070": 96.72,
+        "240351080": 97.17,
+        "240351090": 99.12,
+        "240351100": 97.87,
+        "240351110": 97.57,
+        "240351120": 96.24,
+        "240351130": 99.36,
+        "240351140": 100,
+        "240351150": 97.73,
+        "240351160": 100,
+        "240361070": 95.91,
+        "240361080": 96.85,
+        "240361090": 97.54,
+        "240361100": 94.92,
+        "240361110": 97.46,
+        "240361120": 95.76,
+        "240361130": 97.41,
+        "240361140": 100,
+        "240361150": 96.73,
+        "240361160": 100,
+        "340341070": 79.97,
+        "340341080": 79.46,
+        "340341090": 73.94,
+        "340341100": 80.96,
+        "340341110": 73.68,
+        "340341120": 84.17,
+        "340341130": 70.21,
+        "340341140": 77.98,
+        "340341150": 77.67,
+        "340341160": 77.96,
+        "340351070": 73.31,
+        "340351080": 73.48,
+        "340351090": 80.45,
+        "340351100": 76.56,
+        "340351110": 91.9,
+        "340351120": 84.82,
+        "340351130": 94.28,
+        "340351140": 98.12,
+        "340351150": 87.08,
+        "340351160": 88.58,
+        "340361070": 76.74,
+        "340361080": 76.74,
+        "340361090": 77.28,
+        "340361100": 78.9,
+        "340361110": 81.63,
+        "340361120": 84.51,
+        "340361130": 79.16,
+        "340361140": 87.64,
+        "340361150": 82.34,
+        "340361160": 83.25,
+        "440341070": 9.14,
+        "440341080": 8.21,
+        "440341090": 6.21,
+        "440341100": 5.55,
+        "440341110": 2.47,
+        "440341120": 10.98,
+        "440341130": 28.32,
+        "440341140": 31.44,
+        "440341150": 13.38,
+        "440341160": 23.71,
+        "440351070": 6.22,
+        "440351080": 7.48,
+        "440351090": 9.74,
+        "440351100": 3.84,
+        "440351110": 13.1,
+        "440351120": 8.46,
+        "440351130": 23.67,
+        "440351140": 28.76,
+        "440351150": 15.3,
+        "440351160": 6.84,
+        "440361070": 7.82,
+        "440361080": 7.88,
+        "440361090": 7.59,
+        "440361100": 4.86,
+        "440361110": 6.1,
+        "440361120": 9.89,
+        "440361130": 26.17,
+        "440361140": 30.29,
+        "440361150": 14.2,
+        "440361160": 18.06,
+        "540341070": 97.09,
+        "540341080": 98.53,
+        "540341090": 98.26,
+        "540341100": 96.9,
+        "540341110": 98.47,
+        "540341120": 97.98,
+        "540341130": 98.4,
+        "540341140": 100,
+        "540341150": 98.8,
+        "540341160": 100,
+        "540351070": 97.38,
+        "540351080": 98.5,
+        "540351090": 99.05,
+        "540351100": 98.68,
+        "540351110": 98.13,
+        "540351120": 98.83,
+        "540351130": 99.63,
+        "540351140": 99.19,
+        "540351150": 98.07,
+        "540351160": 100,
+        "540361070": 98.46,
+        "540361080": 98.52,
+        "540361090": 98.63,
+        "540361100": 90.72,
+        "540361110": 98.32,
+        "540361120": 98.37,
+        "540361130": 99.04,
+        "540361140": 99.61,
+        "540361150": 98.46,
+        "540361160": 100,
+        "640341070": 77.93,
+        "640341080": 80.76,
+        "640341090": 77.33,
+        "640341100": 77.35,
+        "640341110": 78.7,
+        "640341120": 81.94,
+        "640341130": 82.6,
+        "640341140": 86.45,
+        "640341150": 80.53,
+        "640341160": 81.89,
+        "640351070": 77.5,
+        "640351080": 77.36,
+        "640351090": 83.47,
+        "640351100": 80.25,
+        "640351110": 87.15,
+        "640351120": 83.85,
+        "640351130": 89.12,
+        "640351140": 90.25,
+        "640351150": 83.81,
+        "640351160": 87.37,
+        "640361070": 78.33,
+        "640361080": 80.24,
+        "640361090": 80.21,
+        "640361100": 78.66,
+        "640361110": 82.27,
+        "640361120": 82.84,
+        "640361130": 85.79,
+        "640361140": 88.25,
+        "640361150": 82.06,
+        "640361160": 84.42
+    },
+    "related": {
+        "1": {
+            "id": "MzYjMg==",
+            "title": "Penduduk Kabupaten Samosir Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzYjMg==/penduduk-kabupaten-samosir-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "2": {
+            "id": "NzkjMg==",
+            "title": "Tingkat Buta Huruf Penduduk Kabupaten Samosir Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzkjMg==/tingkat-buta-huruf-penduduk-kabupaten-samosir-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NiMx",
+            "title": "Banyaknya Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NiMx/banyaknya-penduduk-menurut-kelompok-umur-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "4": {
+            "id": "MzcjMg==",
+            "title": "Penduduk Kabupaten Samosir Menurut Umur Tunggal dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzcjMg==/penduduk-kabupaten-samosir-menurut-umur-tunggal-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "MzkjMg==",
+            "title": "Persentase Penduduk Kabupaten Samosir Berusia 10+ Menurut Partisipasi Sekolah dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzkjMg==/persentase-penduduk-kabupaten-samosir-berusia-10--menurut-partisipasi-sekolah-dan-jenis-kelamin.html"
+        },
+        "6": {
+            "id": "WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==",
+            "title": "Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin (ribu jiwa) di Kabupaten Samosir, 2022",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==/jumlah-penduduk-menurut-kelompok-umur-dan-jenis-kelamin--ribu-jiwa--di-kabupaten-samosir--2022.html?year=2022"
+        },
+        "7": {
+            "id": "WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==",
+            "title": "Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin (ribu jiwa) di Kabupaten Samosir, 2021",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==/jumlah-penduduk-menurut-kelompok-umur-dan-jenis-kelamin--ribu-jiwa--di-kabupaten-samosir--2021.html?year=2021"
+        }
+    }
+}

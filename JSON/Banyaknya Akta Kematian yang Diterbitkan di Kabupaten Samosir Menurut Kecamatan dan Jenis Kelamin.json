@@ -1,0 +1,174 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 534,
+            "label": "Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik"
+        }
+    ],
+    "var": [
+        {
+            "val": 176,
+            "label": "Banyaknya Akta Kematian yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "unit": "Dokumen",
+            "subj": "Pemerintahan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1176341160": 1,
+        "1176351160": null,
+        "1176361160": 1,
+        "2176341160": 2,
+        "2176351160": 3,
+        "2176361160": 5,
+        "3176341160": 1,
+        "3176351160": 1,
+        "3176361160": 2,
+        "4176341160": 4,
+        "4176351160": 3,
+        "4176361160": 7,
+        "5176341160": 3,
+        "5176351160": 1,
+        "5176361160": 4,
+        "6176341160": 5,
+        "6176351160": 3,
+        "6176361160": 8,
+        "7176341160": 3,
+        "7176351160": 1,
+        "7176361160": 4,
+        "8176341160": 9,
+        "8176351160": 7,
+        "8176361160": 16,
+        "9176341160": 7,
+        "9176351160": 9,
+        "9176361160": 16,
+        "10176341160": 35,
+        "10176351160": 28,
+        "10176361160": 63
+    },
+    "related": {
+        "1": {
+            "id": "MTc3IzI=",
+            "title": "Banyaknya Akta Kelahiran dan Kematian yang Diterbitkan di Kabupaten Samosir Setiap Bulan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc3IzI=/banyaknya-akta-kelahiran-dan-kematian-yang-diterbitkan-di-kabupaten-samosir-setiap-bulan.html"
+        },
+        "2": {
+            "id": "MTc1IzI=",
+            "title": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc1IzI=/banyaknya-akta-kelahiran-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "MTQ3IzI=",
+            "title": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTQ3IzI=/banyaknya-akta-kelahiran-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan.html"
+        },
+        "4": {
+            "id": "MTgxIzI=",
+            "title": "Banyaknya Pelaku Kejahatan Menurut Jenis Kelamin dan Jenis Kejahatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTgxIzI=/banyaknya-pelaku-kejahatan-menurut-jenis-kelamin-dan-jenis-kejahatan-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "NDEjMQ==",
+            "title": "Banyaknya Penduduk Berdasarkan Kecamatan dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NDEjMQ==/banyaknya-penduduk-berdasarkan-kecamatan-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "6": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "NDEjMg==",
+            "title": "Banyaknya Wisatawan yang Berkunjung ke Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDEjMg==/banyaknya-wisatawan-yang-berkunjung-ke-kabupaten-samosir.html"
+        }
+    }
+}

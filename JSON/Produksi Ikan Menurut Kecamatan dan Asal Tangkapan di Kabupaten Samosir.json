@@ -1,0 +1,158 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 557,
+            "label": "Pertanian, Kehutanan, Perikanan"
+        }
+    ],
+    "var": [
+        {
+            "val": 134,
+            "label": "Produksi Ikan Menurut Kecamatan dan Asal Tangkapan di Kabupaten Samosir",
+            "unit": "Ton",
+            "subj": "Perikanan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 83,
+            "label": "Danau"
+        },
+        {
+            "val": 84,
+            "label": "Sungai"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1134831150": 474.67,
+        "1134841150": 14.8,
+        "2134831150": 52.86,
+        "2134841150": 8.5,
+        "3134831150": 267.77,
+        "3134841150": 14.2,
+        "4134831150": 985.48,
+        "4134841150": 0.35,
+        "5134831150": 877.62,
+        "5134841150": 0.1,
+        "6134831150": 785.75,
+        "6134841150": 11.26,
+        "8134831150": 705.6,
+        "8134841150": 0.12,
+        "9134831150": 956.15,
+        "9134841150": 0.15,
+        "10134831150": 5105.9,
+        "10134841150": 49.48
+    },
+    "related": {
+        "1": {
+            "id": "MTM5IzI=",
+            "title": "Produksi Menurut Jenis Ikan dan Asal Penangkapan Ikan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTM5IzI=/produksi-menurut-jenis-ikan-dan-asal-penangkapan-ikan-di-kabupaten-samosir.html"
+        },
+        "2": {
+            "id": "MTM3IzI=",
+            "title": "Produksi Ikan  Menurut Kecamatan dan Jenis Budi Daya di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTM3IzI=/produksi-ikan--menurut-kecamatan-dan-jenis-budi-daya-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "OTgjMg==",
+            "title": "Produksi Telur Menurut Kecamatan dan Jenis Unggas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTgjMg==/produksi-telur-menurut-kecamatan-dan-jenis-unggas-di-kabupaten-samosir.html"
+        },
+        "4": {
+            "id": "OTYjMg==",
+            "title": "Produksi Daging Menurut Kecamatan dan Jenis Unggas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTYjMg==/produksi-daging-menurut-kecamatan-dan-jenis-unggas-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTEwIzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Menurut Kecamatan Jagung di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTEwIzI=/luas-panen--produksi-dan-produktivitas-menurut-kecamatan-jagung-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "OTUjMg==",
+            "title": "Produksi Daging Ternak Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTUjMg==/produksi-daging-ternak-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "TUROUllreE5ZemRHYUcxWFkyaHJNMjU2TWxSTFFUMDkjMw==",
+            "title": "Produksi Tanaman Hias Menurut Kecamatan dan Jenis Tanaman  di Kabupaten Samosir, 2019",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/TUROUllreE5ZemRHYUcxWFkyaHJNMjU2TWxSTFFUMDkjMw==/produksi-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman---di-kabupaten-samosir--2019.html?year=2019"
+        }
+    }
+}

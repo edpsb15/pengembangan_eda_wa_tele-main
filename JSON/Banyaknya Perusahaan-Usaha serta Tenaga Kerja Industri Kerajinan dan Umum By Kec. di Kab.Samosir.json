@@ -1,0 +1,132 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 520,
+            "label": "Tenaga Kerja"
+        }
+    ],
+    "var": [
+        {
+            "val": 145,
+            "label": "Banyaknya Perusahaan/Usaha serta Tenaga Kerja Industri Kerajinan dan Umum By Kec. di Kab.Samosir",
+            "unit": "",
+            "subj": "Industri",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 93,
+            "label": "Usaha (unit)"
+        },
+        {
+            "val": 94,
+            "label": "Tenaga Kerja (orang)"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1145931150": 50,
+        "1145941150": 70,
+        "2145931150": 10,
+        "2145941150": 20,
+        "3145931150": 5,
+        "3145941150": 15,
+        "4145931150": 10,
+        "4145941150": 15,
+        "5145931150": 18,
+        "5145941150": 20,
+        "6145931150": 25,
+        "6145941150": 30,
+        "7145931150": 50,
+        "7145941150": 50,
+        "8145931150": 250,
+        "8145941150": 320,
+        "9145931150": 82,
+        "9145941150": 110,
+        "10145931150": 500,
+        "10145941150": 650
+    },
+    "related": {
+        "1": {
+            "id": "MTQyIzI=",
+            "title": "Banyaknya Perusahaan serta Tenaga Kerja Industri Kimia dan Bahan Bangunan By Kec. di Kab.Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTQyIzI=/banyaknya-perusahaan-serta-tenaga-kerja-industri-kimia-dan-bahan-bangunan-by-kec--di-kab-samosir.html"
+        },
+        "2": {
+            "id": "MTQwIzI=",
+            "title": "Banyaknya Perusahaan/Usaha serta Tenaga Kerja Industri Makanan By Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTQwIzI=/banyaknya-perusahaan-usaha-serta-tenaga-kerja-industri-makanan-by-kecamatan-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTQxIzI=",
+            "title": "Banyaknya Perusahaan/Usaha serta Tenaga Kerja Industri Sandang dan Kulit By Kecamatan di Kab.Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTQxIzI=/banyaknya-perusahaan-usaha-serta-tenaga-kerja-industri-sandang-dan-kulit-by-kecamatan-di-kab-samosir.html"
+        }
+    }
+}

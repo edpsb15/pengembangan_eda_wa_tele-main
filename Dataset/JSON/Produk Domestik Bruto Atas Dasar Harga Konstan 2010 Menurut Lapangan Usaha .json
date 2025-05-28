@@ -1,0 +1,340 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-03-14 09:33:52",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 187,
+            "label": "Produk Domestik Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha ",
+            "unit": "Milyar Rupiah",
+            "subj": "Produk Domestik Regional Bruto Menurut Lapangan Usaha",
+            "def": "",
+            "decimal": 2,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Kategori/Lapangan Usaha",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "A. Pertanian, Kehutanan, dan Perikanant"
+        },
+        {
+            "val": 2,
+            "label": "B. Pertambangan dan Penggalian t"
+        },
+        {
+            "val": 3,
+            "label": "C. Industri Pengolahan"
+        },
+        {
+            "val": 4,
+            "label": "D. Pengadaan Listrik dan Gas"
+        },
+        {
+            "val": 5,
+            "label": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+        },
+        {
+            "val": 6,
+            "label": "F. Konstruksi"
+        },
+        {
+            "val": 7,
+            "label": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+        },
+        {
+            "val": 8,
+            "label": "H. Transportasi dan Pergudangan"
+        },
+        {
+            "val": 9,
+            "label": "I. Penyediaan Akomodasi dan Makan Minum"
+        },
+        {
+            "val": 10,
+            "label": "J. Informasi dan Komunikasi"
+        },
+        {
+            "val": 11,
+            "label": "K. Jasa Keuangan dan Asuransi"
+        },
+        {
+            "val": 12,
+            "label": "L. Real Estat"
+        },
+        {
+            "val": 13,
+            "label": "M,N. Jasa Perusahaan"
+        },
+        {
+            "val": 14,
+            "label": "O. Administrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib"
+        },
+        {
+            "val": 15,
+            "label": "P. Jasa Pendidikan"
+        },
+        {
+            "val": 16,
+            "label": "Q. Jasa Kesehatan dan Kegiatan Sosial"
+        },
+        {
+            "val": 17,
+            "label": "R,S,T,U. Jasa lainnya"
+        },
+        {
+            "val": 18,
+            "label": "PDRB"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 116,
+            "label": "2016"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "118701160": 1385.21,
+        "118701170": 1458.7,
+        "118701180": 1534.88,
+        "118701190": 1606,
+        "118701200": 1601.57,
+        "118701210": 1641.71,
+        "118701220": 1717.13,
+        "118701230": 1793.64,
+        "218701160": 16.42,
+        "218701170": 17.67,
+        "218701180": 18.81,
+        "218701190": 19.91,
+        "218701200": 20.39,
+        "218701210": 21,
+        "218701220": 21.64,
+        "218701230": 22.68,
+        "318701160": 14.28,
+        "318701170": 14.66,
+        "318701180": 15.04,
+        "318701190": 15.55,
+        "318701200": 15.72,
+        "318701210": 15.99,
+        "318701220": 16.4,
+        "318701230": 16.98,
+        "418701160": 1.94,
+        "418701170": 2.01,
+        "418701180": 2.06,
+        "418701190": 2.12,
+        "418701200": 2.24,
+        "418701210": 2.35,
+        "418701220": 2.5,
+        "418701230": 2.6,
+        "518701160": 1.3,
+        "518701170": 1.38,
+        "518701180": 1.43,
+        "518701190": 1.49,
+        "518701200": 1.54,
+        "518701210": 1.57,
+        "518701220": 1.64,
+        "518701230": 1.71,
+        "618701160": 267.91,
+        "618701170": 287.06,
+        "618701180": 318.42,
+        "618701190": 344.41,
+        "618701200": 332.87,
+        "618701210": 348.94,
+        "618701220": 364.02,
+        "618701230": 385.57,
+        "718701160": 293.93,
+        "718701170": 308.61,
+        "718701180": 323.17,
+        "718701190": 343.05,
+        "718701200": 341.62,
+        "718701210": 359.42,
+        "718701220": 384.26,
+        "718701230": 408.61,
+        "818701160": 79.59,
+        "818701170": 85.83,
+        "818701180": 91.76,
+        "818701190": 100.81,
+        "818701200": 96.97,
+        "818701210": 98.94,
+        "818701220": 107.49,
+        "818701230": 115.2,
+        "918701160": 127.68,
+        "918701170": 137.8,
+        "918701180": 148.04,
+        "918701190": 162.6,
+        "918701200": 157.95,
+        "918701210": 158,
+        "918701220": 168.98,
+        "918701230": 185.35,
+        "1018701160": 26.62,
+        "1018701170": 28.65,
+        "1018701180": 30.75,
+        "1018701190": 33.52,
+        "1018701200": 36.38,
+        "1018701210": 39.21,
+        "1018701220": 41.77,
+        "1018701230": 43.94,
+        "1118701160": 24.18,
+        "1118701170": 25.35,
+        "1118701180": 26.55,
+        "1118701190": 27.86,
+        "1118701200": 28.92,
+        "1118701210": 30.61,
+        "1118701220": 31.89,
+        "1118701230": 32.02,
+        "1218701160": 54.34,
+        "1218701170": 57.37,
+        "1218701180": 59.13,
+        "1218701190": 61.64,
+        "1218701200": 64.09,
+        "1218701210": 64.35,
+        "1218701220": 65.71,
+        "1218701230": 66.9,
+        "1318701160": 3.05,
+        "1318701170": 3.22,
+        "1318701180": 3.35,
+        "1318701190": 3.5,
+        "1318701200": 3.59,
+        "1318701210": 3.7,
+        "1318701220": 3.77,
+        "1318701230": 3.85,
+        "1418701160": 299.79,
+        "1418701170": 306.68,
+        "1418701180": 314,
+        "1418701190": 329.39,
+        "1418701200": 328.41,
+        "1418701210": 326.91,
+        "1418701220": 326.74,
+        "1418701230": 339.23,
+        "1518701160": 23.95,
+        "1518701170": 25.38,
+        "1518701180": 26.89,
+        "1518701190": 28.38,
+        "1518701200": 29.68,
+        "1518701210": 31.06,
+        "1518701220": 31.09,
+        "1518701230": 31.96,
+        "1618701160": 13.75,
+        "1618701170": 14.53,
+        "1618701180": 15.36,
+        "1618701190": 16.28,
+        "1618701200": 16.26,
+        "1618701210": 16.07,
+        "1618701220": 16.33,
+        "1618701230": 17.08,
+        "1718701160": 1.83,
+        "1718701170": 1.95,
+        "1718701180": 2.06,
+        "1718701190": 2.23,
+        "1718701200": 2.22,
+        "1718701210": 2.28,
+        "1718701220": 2.5,
+        "1718701230": 2.72,
+        "1818701160": 2635.77,
+        "1818701170": 2776.85,
+        "1818701180": 2931.7,
+        "1818701190": 3098.74,
+        "1818701200": 3080.43,
+        "1818701210": 3162.1,
+        "1818701220": 3303.86,
+        "1818701230": 3470.05
+    },
+    "related": {
+        "1": {
+            "id": "MTg5IzI=",
+            "title": "Laju Pertumbuhan Produk Domestik Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2024-03-14",
+            "link": "/2/MTg5IzI=/laju-pertumbuhan-produk-domestik-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha.html"
+        },
+        "2": {
+            "id": "MTg2IzI=",
+            "title": "Produk Domestik Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2024-03-13",
+            "link": "/2/MTg2IzI=/produk-domestik-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha.html"
+        },
+        "3": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2015",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2015.html?year=2015"
+        },
+        "4": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2018.html?year=2018"
+        },
+        "5": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2016",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2016.html?year=2016"
+        },
+        "6": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2020",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2020.html?year=2020"
+        },
+        "7": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2023",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2023.html?year=2023"
+        }
+    }
+}

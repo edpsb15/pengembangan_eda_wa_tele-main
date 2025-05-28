@@ -1,0 +1,205 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 520,
+            "label": "Tenaga Kerja"
+        }
+    ],
+    "var": [
+        {
+            "val": 70,
+            "label": "Penduduk Kab. Samosir 15+ Termasuk Pengangguran By Pendidikan Tertinggi Ditamatkan dan Jenis Kelamin",
+            "unit": "Jiwa",
+            "subj": "Tenaga Kerja",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Pendidikan Tertinggi Yang Ditamatkan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Tidak/belum pernah sekolah/Tidak belum Tamat SD/Sekolah Dasar "
+        },
+        {
+            "val": 2,
+            "label": "SMP"
+        },
+        {
+            "val": 3,
+            "label": "SMA"
+        },
+        {
+            "val": 4,
+            "label": "SMK"
+        },
+        {
+            "val": 5,
+            "label": "Diploma I/II/III"
+        },
+        {
+            "val": 6,
+            "label": "Diploma IV/ Universitas"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "170341140": 25,
+        "170341150": 159,
+        "170341170": 93,
+        "170361140": 25,
+        "170361150": 159,
+        "170361170": 93,
+        "270341120": 58,
+        "270341130": 39,
+        "270341140": 25,
+        "270341150": 29,
+        "270341170": 116,
+        "270351170": 95,
+        "270361120": 58,
+        "270361130": 39,
+        "270361140": 25,
+        "270361150": 29,
+        "270361170": 211,
+        "370341120": 249,
+        "370341130": 189,
+        "370341140": 248,
+        "370341170": 221,
+        "370351120": 329,
+        "370351130": 128,
+        "370351140": 162,
+        "370351150": 36,
+        "370351170": 117,
+        "370361120": 578,
+        "370361130": 317,
+        "370361140": 410,
+        "370361150": 36,
+        "370361170": 338,
+        "470341130": 164,
+        "470341140": 124,
+        "470341150": 436,
+        "470351120": 178,
+        "470351130": 148,
+        "470351150": 198,
+        "470361120": 178,
+        "470361130": 312,
+        "470361140": 124,
+        "470361150": 634,
+        "570351120": 27,
+        "570351130": 28,
+        "570351140": 118,
+        "570351170": 117,
+        "570361120": 27,
+        "570361130": 28,
+        "570361140": 118,
+        "570361170": 117,
+        "670341120": 41,
+        "670341130": 29,
+        "670341150": 41,
+        "670341170": 164,
+        "670351120": 40,
+        "670351130": 28,
+        "670351140": 39,
+        "670361120": 81,
+        "670361130": 57,
+        "670361140": 39,
+        "670361150": 41,
+        "670361170": 164
+    },
+    "related": {
+        "1": {
+            "id": "NjEjMg==",
+            "title": "Penduduk Kab. Samosir 15+ yang termasuk Angkatan Kerja By Pendidikan Tertinggi dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjEjMg==/penduduk-kab--samosir-15--yang-termasuk-angkatan-kerja-by-pendidikan-tertinggi-dan-jenis-kelamin.html"
+        },
+        "2": {
+            "id": "NjUjMg==",
+            "title": "Penduduk Kab. Samosir 15+ yg Bekerja Selama Seminggu Lalu By Pendidikan Tertinggi dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjUjMg==/penduduk-kab--samosir-15--yg-bekerja-selama-seminggu-lalu-by-pendidikan-tertinggi-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NjMjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ yang Termasuk Angkatan Kerja By Golongan Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjMjMg==/penduduk-kabupaten-samosir-15--yang-termasuk-angkatan-kerja-by-golongan-umur-dan-jenis-kelamin.html"
+        },
+        "4": {
+            "id": "NzcjMg==",
+            "title": "Persentase Penduduk Kab. Samosir Berusia 10+ By Ijazah/STTB Tertinggi yg Dimiliki dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzcjMg==/persentase-penduduk-kab--samosir-berusia-10--by-ijazah-sttb-tertinggi-yg-dimiliki-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "NjkjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ Bekerja Seminggu Lalu By Jenis Kelamin dan Status Pekerjaan Utama",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjkjMg==/penduduk-kabupaten-samosir-15--bekerja-seminggu-lalu-by-jenis-kelamin-dan-status-pekerjaan-utama.html"
+        },
+        "6": {
+            "id": "NjcjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ yg Bekerja Seminggu Lalu By Pekerjaan Utama dan Jenis kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjcjMg==/penduduk-kabupaten-samosir-15--yg-bekerja-seminggu-lalu-by-pekerjaan-utama-dan-jenis-kelamin.html"
+        },
+        "7": {
+            "id": "NjAjMg==",
+            "title": "Penduduk Samosir 15 Tahun ke Atas Berdasarkan Kegiatan Seminggu yang Lalu dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjAjMg==/penduduk-samosir-15-tahun-ke-atas-berdasarkan-kegiatan-seminggu-yang-lalu-dan-jenis-kelamin.html"
+        }
+    }
+}

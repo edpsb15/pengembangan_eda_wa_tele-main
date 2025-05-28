@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 520,
+            "label": "Tenaga Kerja"
+        }
+    ],
+    "var": [
+        {
+            "val": 67,
+            "label": "Penduduk Kabupaten Samosir 15+ yg Bekerja Seminggu Lalu By Pekerjaan Utama dan Jenis kelamin",
+            "unit": "Jiwa",
+            "subj": "Tenaga Kerja",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Lapangan Pekerjaan (3 Sektor)",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Pertanian"
+        },
+        {
+            "val": 2,
+            "label": "Manufaktur"
+        },
+        {
+            "val": 3,
+            "label": "Jasa"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "167341110": 23362,
+        "167341120": 24111,
+        "167341130": 24811,
+        "167341140": 24813,
+        "167341150": 23938,
+        "167341170": 23254,
+        "167351110": 18279,
+        "167351120": 25074,
+        "167351130": 23669,
+        "167351140": 23835,
+        "167351150": 25421,
+        "167351170": 22669,
+        "167361110": 41641,
+        "167361120": 49185,
+        "167361130": 48480,
+        "167361140": 48648,
+        "167361150": 49359,
+        "167361170": 45923,
+        "267341110": 1789,
+        "267341120": 3229,
+        "267341130": 1910,
+        "267341140": 2408,
+        "267341150": 980,
+        "267341170": 2799,
+        "267351110": 1572,
+        "267351120": 1640,
+        "267351130": 1795,
+        "267351140": 2476,
+        "267351150": 835,
+        "267351170": 1715,
+        "267361110": 3361,
+        "267361120": 4869,
+        "267361130": 3705,
+        "267361140": 4884,
+        "267361150": 1815,
+        "267361170": 4514,
+        "367341110": 5995,
+        "367341120": 7599,
+        "367341130": 6538,
+        "367341140": 7226,
+        "367341150": 9451,
+        "367341170": 9929,
+        "367351110": 5144,
+        "367351120": 7673,
+        "367351130": 7489,
+        "367351140": 9216,
+        "367351150": 8748,
+        "367351170": 10893,
+        "367361110": 11139,
+        "367361120": 15272,
+        "367361130": 14027,
+        "367361140": 16442,
+        "367361150": 18199,
+        "367361170": 20822
+    },
+    "related": {
+        "1": {
+            "id": "NjkjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ Bekerja Seminggu Lalu By Jenis Kelamin dan Status Pekerjaan Utama",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjkjMg==/penduduk-kabupaten-samosir-15--bekerja-seminggu-lalu-by-jenis-kelamin-dan-status-pekerjaan-utama.html"
+        },
+        "2": {
+            "id": "NjUjMg==",
+            "title": "Penduduk Kab. Samosir 15+ yg Bekerja Selama Seminggu Lalu By Pendidikan Tertinggi dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjUjMg==/penduduk-kab--samosir-15--yg-bekerja-selama-seminggu-lalu-by-pendidikan-tertinggi-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NjQjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ yang Bekerja Selama Seminggu yang Lalu By Gol Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjQjMg==/penduduk-kabupaten-samosir-15--yang-bekerja-selama-seminggu-yang-lalu-by-gol-umur-dan-jenis-kelamin.html"
+        },
+        "4": {
+            "id": "NjAjMg==",
+            "title": "Penduduk Samosir 15 Tahun ke Atas Berdasarkan Kegiatan Seminggu yang Lalu dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjAjMg==/penduduk-samosir-15-tahun-ke-atas-berdasarkan-kegiatan-seminggu-yang-lalu-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "NTkjMg==",
+            "title": "Penduduk Kabupaten Samosir Berusia 15 Tahun ke Atas Menurut Kegiatan Seminggu yang Lalu",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NTkjMg==/penduduk-kabupaten-samosir-berusia-15-tahun-ke-atas-menurut-kegiatan-seminggu-yang-lalu.html"
+        },
+        "6": {
+            "id": "NzcjMg==",
+            "title": "Persentase Penduduk Kab. Samosir Berusia 10+ By Ijazah/STTB Tertinggi yg Dimiliki dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzcjMg==/persentase-penduduk-kab--samosir-berusia-10--by-ijazah-sttb-tertinggi-yg-dimiliki-dan-jenis-kelamin.html"
+        },
+        "7": {
+            "id": "NzAjMg==",
+            "title": "Penduduk Kab. Samosir 15+ Termasuk Pengangguran By Pendidikan Tertinggi Ditamatkan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzAjMg==/penduduk-kab--samosir-15--termasuk-pengangguran-by-pendidikan-tertinggi-ditamatkan-dan-jenis-kelamin.html"
+        }
+    }
+}

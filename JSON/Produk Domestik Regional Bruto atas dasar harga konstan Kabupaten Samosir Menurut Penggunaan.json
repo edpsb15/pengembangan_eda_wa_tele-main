@@ -1,0 +1,274 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-03-13 02:57:44",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 191,
+            "label": "Produk Domestik Regional Bruto atas dasar harga konstan Kabupaten Samosir Menurut Penggunaan",
+            "unit": "Milyar Rupiah",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "* Angka Sementara (2019) ** Angka Sangat Sementara (2020)",
+            "decimal": 2,
+            "note": "Tidak Ada Karakteristik"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen PDRB Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "1. Pengeluaran Konsumsi Rumahtangga"
+        },
+        {
+            "val": 2,
+            "label": "2. Pengeluaran Konsumsi LNPRT"
+        },
+        {
+            "val": 3,
+            "label": "3. Pengeluaran Konsumsi Pemerintah"
+        },
+        {
+            "val": 4,
+            "label": "4. Pembentukan Modal Tetap Bruto"
+        },
+        {
+            "val": 5,
+            "label": "5. Perubahan Inventori"
+        },
+        {
+            "val": 6,
+            "label": "6. Net Ekspor Barang dan Jasa"
+        },
+        {
+            "val": 7,
+            "label": "PRODUK DOMESTIK REGIONAL BRUTO"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "119101100": 1063.31,
+        "119101110": 1128.47,
+        "119101120": 1187.54,
+        "119101130": 1251.39,
+        "119101140": 1321.13,
+        "119101150": 1393.51,
+        "119101160": 1469.31,
+        "119101170": 1552.14,
+        "119101180": 1628.83,
+        "119101190": 1721.84,
+        "119101200": 1697.57,
+        "119101210": 1742.43,
+        "119101220": 1838.07,
+        "119101230": 1951.55,
+        "219101100": 43.21,
+        "219101110": 46.83,
+        "219101120": 49.28,
+        "219101130": 53.58,
+        "219101140": 56.96,
+        "219101150": 57.9,
+        "219101160": 60.09,
+        "219101170": 61.56,
+        "219101180": 65.49,
+        "219101190": 71.85,
+        "219101200": 72.86,
+        "219101210": 73.5,
+        "219101220": 77.54,
+        "219101230": 83.66,
+        "319101100": 458.18,
+        "319101110": 491.77,
+        "319101120": 520.13,
+        "319101130": 533.31,
+        "319101140": 549.28,
+        "319101150": 583.5,
+        "319101160": 612.52,
+        "319101170": 653.98,
+        "319101180": 679.97,
+        "319101190": 694.76,
+        "319101200": 692.47,
+        "319101210": 698.09,
+        "319101220": 697.81,
+        "319101230": 717.87,
+        "419101100": 279.96,
+        "419101110": 296.45,
+        "419101120": 316.3,
+        "419101130": 336.96,
+        "419101140": 349.55,
+        "419101150": 361.42,
+        "419101160": 375.51,
+        "419101170": 392.21,
+        "419101180": 424.7,
+        "419101190": 463.33,
+        "419101200": 449.04,
+        "419101210": 474.29,
+        "419101220": 502.32,
+        "419101230": 530.92,
+        "519101100": 81.28,
+        "519101110": 78.41,
+        "519101120": 132.11,
+        "519101130": 133.45,
+        "519101140": 149.9,
+        "519101150": 152.07,
+        "519101160": 153.25,
+        "519101170": 149.85,
+        "519101180": 155.12,
+        "519101190": 159.51,
+        "519101200": 174.73,
+        "519101210": 178.26,
+        "519101220": 188.34,
+        "519101230": 188.43,
+        "619101100": -38.21,
+        "619101110": -56.35,
+        "619101120": -99.71,
+        "619101130": -74.6,
+        "619101140": -59.72,
+        "619101150": -44.62,
+        "619101160": -34.91,
+        "619101170": -32.9,
+        "619101180": -22.41,
+        "619101190": -12.55,
+        "619101200": -6.24,
+        "619101210": -4.47,
+        "619101220": -0.21,
+        "619101230": -2.39,
+        "719101100": 1887.72,
+        "719101110": 1985.57,
+        "719101120": 2105.65,
+        "719101130": 2234.09,
+        "719101140": 2367.1,
+        "719101150": 2503.78,
+        "719101160": 2635.77,
+        "719101170": 2776.85,
+        "719101180": 2931.7,
+        "719101190": 3098.74,
+        "719101200": 3080.43,
+        "719101210": 3162.1,
+        "719101220": 3303.86,
+        "719101230": 3470.05
+    },
+    "related": {
+        "1": {
+            "id": "MTkwIzI=",
+            "title": "Produk Domestik Regional Bruto Kabupaten Samosir Atas Dasar Harga Berlaku menurut pengeluaran ",
+            "tablesource": 2,
+            "last_update": "2024-03-13",
+            "link": "/2/MTkwIzI=/produk-domestik-regional-bruto-kabupaten-samosir-atas-dasar-harga-berlaku-menurut-pengeluaran-.html"
+        },
+        "2": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2015",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2015.html?year=2015"
+        },
+        "3": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2018.html?year=2018"
+        },
+        "4": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2014",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2014.html?year=2014"
+        },
+        "5": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2017",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2017.html?year=2017"
+        },
+        "6": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2019",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2019.html?year=2019"
+        },
+        "7": {
+            "id": "VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==",
+            "title": "Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (miliar rupiah), 2021",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/VWtsTFNuRlpabk16TWxKaVNXcE1PRXhKT0RJclFUMDkjMw==/produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--miliar-rupiah---2021.html?year=2021"
+        }
+    }
+}

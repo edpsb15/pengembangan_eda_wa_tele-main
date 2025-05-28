@@ -1,0 +1,258 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-02-28 12:43:54",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 165,
+            "label": "Laju Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 menurut Pengeluaran",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "",
+            "decimal": null,
+            "note": "* Angka Sementara (2015) ** Angka Sangat Sementara (2016)"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen PDRB Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "1. Pengeluaran Konsumsi Rumahtangga"
+        },
+        {
+            "val": 2,
+            "label": "2. Pengeluaran Konsumsi LNPRT"
+        },
+        {
+            "val": 3,
+            "label": "3. Pengeluaran Konsumsi Pemerintah"
+        },
+        {
+            "val": 4,
+            "label": "4. Pembentukan Modal Tetap Bruto"
+        },
+        {
+            "val": 5,
+            "label": "5. Perubahan Inventori"
+        },
+        {
+            "val": 6,
+            "label": "6. Net Ekspor Barang dan Jasa"
+        },
+        {
+            "val": 7,
+            "label": "PRODUK DOMESTIK REGIONAL BRUTO"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "116501110": 6.13,
+        "116501120": 5.23,
+        "116501130": 5.38,
+        "116501140": 5.57,
+        "116501150": 5.48,
+        "116501160": 5.44,
+        "116501170": 5.64,
+        "116501180": 4.94,
+        "116501190": 5.71,
+        "116501200": -1.41,
+        "116501210": 2.64,
+        "116501220": 5.49,
+        "116501230": 6.17,
+        "116501240": 4.03,
+        "216501110": 8.38,
+        "216501120": 5.23,
+        "216501130": 8.72,
+        "216501140": 6.3,
+        "216501150": 1.66,
+        "216501160": 3.78,
+        "216501170": 2.45,
+        "216501180": 6.38,
+        "216501190": 9.71,
+        "216501200": 1.4,
+        "216501210": 0.88,
+        "216501220": 5.49,
+        "216501230": 7.9,
+        "216501240": 10.24,
+        "316501110": 7.33,
+        "316501120": 5.77,
+        "316501130": 2.53,
+        "316501140": 3,
+        "316501150": 6.23,
+        "316501160": 4.97,
+        "316501170": 6.77,
+        "316501180": 3.97,
+        "316501190": 2.18,
+        "316501200": -0.33,
+        "316501210": 0.81,
+        "316501220": -0.04,
+        "316501230": 2.87,
+        "316501240": 1.34,
+        "416501110": 5.89,
+        "416501120": 6.7,
+        "416501130": 6.53,
+        "416501140": 3.74,
+        "416501150": 3.4,
+        "416501160": 3.9,
+        "416501170": 4.45,
+        "416501180": 8.28,
+        "416501190": 9.1,
+        "416501200": -3.08,
+        "416501210": 5.62,
+        "416501220": 5.91,
+        "416501230": 5.69,
+        "416501240": 6.68,
+        "516501110": -3.53,
+        "516501120": 68.48,
+        "516501130": 1.02,
+        "516501140": 12.33,
+        "516501150": 1.44,
+        "516501160": 0.78,
+        "616501110": 47.49,
+        "616501120": 76.94,
+        "616501130": -25.18,
+        "616501140": -19.95,
+        "616501150": -25.28,
+        "616501160": -21.78,
+        "716501110": 5.18,
+        "716501120": 6.05,
+        "716501130": 6.1,
+        "716501140": 5.95,
+        "716501150": 5.77,
+        "716501160": 5.27,
+        "716501170": 5.35,
+        "716501180": 5.58,
+        "716501190": 5.7,
+        "716501200": -0.59,
+        "716501210": 2.65,
+        "716501220": 4.48,
+        "716501230": 5.03,
+        "716501240": 5.02
+    },
+    "related": {
+        "1": {
+            "id": "MTkyIzI=",
+            "title": "Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTkyIzI=/pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "MTUzIzI=",
+            "title": "Laju Pertumbuhan PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUzIzI=/laju-pertumbuhan-pdrb-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTY0IzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY0IzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "4": {
+            "id": "MTk1IzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran Tahun 2018-2022",
+            "tablesource": 2,
+            "last_update": "2023-02-28",
+            "link": "/2/MTk1IzI=/pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran-tahun-2018-2022.html"
+        },
+        "5": {
+            "id": "NzYjMQ==",
+            "title": "Laju Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha Tahun 2011-2016 (Persen)",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NzYjMQ==/laju-pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-tahun-2011-2016--persen-.html"
+        },
+        "6": {
+            "id": "MTUxIzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUxIzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTUwIzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha Tahun 2010-2016",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTUwIzI=/pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-tahun-2010-2016.html"
+        }
+    }
+}

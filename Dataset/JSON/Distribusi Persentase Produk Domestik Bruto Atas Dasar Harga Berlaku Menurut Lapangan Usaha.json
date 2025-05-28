@@ -1,0 +1,340 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2024-03-13 02:39:11",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 188,
+            "label": "Distribusi Persentase Produk Domestik Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Lapangan Usaha",
+            "def": "",
+            "decimal": 2,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Kategori/Lapangan Usaha",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "A. Pertanian, Kehutanan, dan Perikanant"
+        },
+        {
+            "val": 2,
+            "label": "B. Pertambangan dan Penggalian t"
+        },
+        {
+            "val": 3,
+            "label": "C. Industri Pengolahan"
+        },
+        {
+            "val": 4,
+            "label": "D. Pengadaan Listrik dan Gas"
+        },
+        {
+            "val": 5,
+            "label": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+        },
+        {
+            "val": 6,
+            "label": "F. Konstruksi"
+        },
+        {
+            "val": 7,
+            "label": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+        },
+        {
+            "val": 8,
+            "label": "H. Transportasi dan Pergudangan"
+        },
+        {
+            "val": 9,
+            "label": "I. Penyediaan Akomodasi dan Makan Minum"
+        },
+        {
+            "val": 10,
+            "label": "J. Informasi dan Komunikasi"
+        },
+        {
+            "val": 11,
+            "label": "K. Jasa Keuangan dan Asuransi"
+        },
+        {
+            "val": 12,
+            "label": "L. Real Estat"
+        },
+        {
+            "val": 13,
+            "label": "M,N. Jasa Perusahaan"
+        },
+        {
+            "val": 14,
+            "label": "O. Administrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib"
+        },
+        {
+            "val": 15,
+            "label": "P. Jasa Pendidikan"
+        },
+        {
+            "val": 16,
+            "label": "Q. Jasa Kesehatan dan Kegiatan Sosial"
+        },
+        {
+            "val": 17,
+            "label": "R,S,T,U. Jasa lainnya"
+        },
+        {
+            "val": 18,
+            "label": "PDRB"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 116,
+            "label": "2016"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "118801160": 51.32,
+        "118801170": 51.17,
+        "118801180": 51.02,
+        "118801190": 50.53,
+        "118801200": 50.87,
+        "118801210": 51,
+        "118801220": 51.25,
+        "118801230": 51.08,
+        "218801160": 0.64,
+        "218801170": 0.64,
+        "218801180": 0.63,
+        "218801190": 0.63,
+        "218801200": 0.64,
+        "218801210": 0.65,
+        "218801220": 0.64,
+        "218801230": 0.63,
+        "318801160": 0.55,
+        "318801170": 0.54,
+        "318801180": 0.52,
+        "318801190": 0.51,
+        "318801200": 0.52,
+        "318801210": 0.51,
+        "318801220": 0.51,
+        "318801230": 0.5,
+        "418801160": 0.05,
+        "418801170": 0.05,
+        "418801180": 0.05,
+        "418801190": 0.05,
+        "418801200": 0.05,
+        "418801210": 0.05,
+        "418801220": 0.05,
+        "418801230": 0.05,
+        "518801160": 0.05,
+        "518801170": 0.05,
+        "518801180": 0.05,
+        "518801190": 0.05,
+        "518801200": 0.05,
+        "518801210": 0.05,
+        "518801220": 0.05,
+        "518801230": 0.05,
+        "618801160": 10.39,
+        "618801170": 10.55,
+        "618801180": 11.15,
+        "618801190": 11.43,
+        "618801200": 11.12,
+        "618801210": 11.56,
+        "618801220": 11.77,
+        "618801230": 11.9,
+        "718801160": 10.81,
+        "718801170": 10.85,
+        "718801180": 10.81,
+        "718801190": 10.88,
+        "718801200": 10.84,
+        "718801210": 11.03,
+        "718801220": 11.49,
+        "718801230": 11.96,
+        "818801160": 3.56,
+        "818801170": 3.51,
+        "818801180": 3.48,
+        "818801190": 3.57,
+        "818801200": 3.43,
+        "818801210": 3.42,
+        "818801220": 3.57,
+        "818801230": 3.7,
+        "918801160": 5.14,
+        "918801170": 5.24,
+        "918801180": 5.23,
+        "918801190": 5.34,
+        "918801200": 5.09,
+        "918801210": 4.88,
+        "918801220": 4.91,
+        "918801230": 5.03,
+        "1018801160": 0.75,
+        "1018801170": 0.75,
+        "1018801180": 0.75,
+        "1018801190": 0.76,
+        "1018801200": 0.82,
+        "1018801210": 0.86,
+        "1018801220": 0.88,
+        "1018801230": 0.86,
+        "1118801160": 0.91,
+        "1118801170": 0.91,
+        "1118801180": 0.91,
+        "1118801190": 0.89,
+        "1118801200": 0.9,
+        "1118801210": 0.95,
+        "1118801220": 0.9,
+        "1118801230": 0.83,
+        "1218801160": 2.11,
+        "1218801170": 2.14,
+        "1218801180": 2.13,
+        "1218801190": 2.19,
+        "1218801200": 2.28,
+        "1218801210": 2.25,
+        "1218801220": 2.18,
+        "1218801230": 2.13,
+        "1318801160": 0.11,
+        "1318801170": 0.12,
+        "1318801180": 0.11,
+        "1318801190": 0.11,
+        "1318801200": 0.12,
+        "1318801210": 0.12,
+        "1318801220": 0.12,
+        "1318801230": 0.12,
+        "1418801160": 12.07,
+        "1418801170": 11.94,
+        "1418801180": 11.6,
+        "1418801190": 11.47,
+        "1418801200": 11.62,
+        "1418801210": 11.04,
+        "1418801220": 10.16,
+        "1418801230": 9.69,
+        "1518801160": 0.9,
+        "1518801170": 0.9,
+        "1518801180": 0.9,
+        "1518801190": 0.91,
+        "1518801200": 0.95,
+        "1518801210": 0.96,
+        "1518801220": 0.88,
+        "1518801230": 0.84,
+        "1618801160": 0.57,
+        "1618801170": 0.57,
+        "1618801180": 0.58,
+        "1618801190": 0.6,
+        "1618801200": 0.61,
+        "1618801210": 0.58,
+        "1618801220": 0.55,
+        "1618801230": 0.55,
+        "1718801160": 0.07,
+        "1718801170": 0.08,
+        "1718801180": 0.08,
+        "1718801190": 0.08,
+        "1718801200": 0.08,
+        "1718801210": 0.08,
+        "1718801220": 0.08,
+        "1718801230": 0.08,
+        "1818801160": 100,
+        "1818801170": 100,
+        "1818801180": 100,
+        "1818801190": 100,
+        "1818801200": 100,
+        "1818801210": 100,
+        "1818801220": 100,
+        "1818801230": 100
+    },
+    "related": {
+        "1": {
+            "id": "MTg2IzI=",
+            "title": "Produk Domestik Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2024-03-13",
+            "link": "/2/MTg2IzI=/produk-domestik-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha.html"
+        },
+        "2": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2022",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2022.html?year=2022"
+        },
+        "3": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2023",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2023.html?year=2023"
+        },
+        "4": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2014",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2014.html?year=2014"
+        },
+        "5": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2015",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2015.html?year=2015"
+        },
+        "6": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2018.html?year=2018"
+        },
+        "7": {
+            "id": "T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==",
+            "title": "Distribusi Persentase Produk Domestik Regional Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha (persen) di Kabupaten Samosir, 2024",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-regional-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen--di-kabupaten-samosir--2024.html?year=2024"
+        }
+    }
+}

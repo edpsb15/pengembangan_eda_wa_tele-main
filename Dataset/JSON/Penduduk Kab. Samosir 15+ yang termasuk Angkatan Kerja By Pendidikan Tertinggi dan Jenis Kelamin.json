@@ -1,0 +1,344 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 520,
+            "label": "Tenaga Kerja"
+        }
+    ],
+    "var": [
+        {
+            "val": 61,
+            "label": "Penduduk Kab. Samosir 15+ yang termasuk Angkatan Kerja By Pendidikan Tertinggi dan Jenis Kelamin",
+            "unit": "Jiwa",
+            "subj": "Tenaga Kerja",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Pendidikan Tertinggi Yang Ditamatkan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Tidak/belum pernah sekolah/Tidak belum Tamat SD/Sekolah Dasar "
+        },
+        {
+            "val": 2,
+            "label": "SMP"
+        },
+        {
+            "val": 3,
+            "label": "SMA"
+        },
+        {
+            "val": 4,
+            "label": "SMK"
+        },
+        {
+            "val": 5,
+            "label": "Diploma I/II/III"
+        },
+        {
+            "val": 6,
+            "label": "Diploma IV/ Universitas"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 107,
+            "label": "2007"
+        },
+        {
+            "val": 108,
+            "label": "2008"
+        },
+        {
+            "val": 109,
+            "label": "2009"
+        },
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "161341070": 1177,
+        "161341080": 245,
+        "161341090": 266,
+        "161341100": 462,
+        "161341110": 248,
+        "161341120": 8226,
+        "161341130": 7828,
+        "161341140": 8357,
+        "161341150": 8390,
+        "161341170": 9165,
+        "161351070": 1848,
+        "161351080": 506,
+        "161351090": 615,
+        "161351100": 1050,
+        "161351110": 623,
+        "161351120": 12478,
+        "161351130": 11565,
+        "161351140": 12958,
+        "161351150": 9651,
+        "161351170": 11413,
+        "161361070": 3025,
+        "161361080": 751,
+        "161361090": 881,
+        "161361100": 1512,
+        "161361110": 871,
+        "161361120": 20704,
+        "161361130": 19393,
+        "161361140": 21315,
+        "161361150": 18041,
+        "161361170": 20578,
+        "261341070": 2139,
+        "261341080": 4279,
+        "261341090": 5150,
+        "261341100": 4861,
+        "261341110": 3574,
+        "261341120": 13795,
+        "261341130": 10552,
+        "261341140": 9677,
+        "261341150": 10210,
+        "261341170": 10165,
+        "261351070": 2618,
+        "261351080": 4990,
+        "261351090": 6074,
+        "261351100": 6972,
+        "261351110": 4908,
+        "261351120": 10214,
+        "261351130": 7836,
+        "261351140": 7058,
+        "261351150": 10385,
+        "261351170": 6924,
+        "261361070": 4757,
+        "261361080": 9269,
+        "261361090": 11224,
+        "261361100": 11833,
+        "261361110": 8482,
+        "261361120": 24009,
+        "261361130": 18388,
+        "261361140": 16735,
+        "261361150": 20595,
+        "261361170": 17089,
+        "361341070": 8390,
+        "361341080": 7444,
+        "361341090": 6871,
+        "361341100": 6299,
+        "361341110": 5541,
+        "361341120": 8516,
+        "361341130": 10701,
+        "361341140": 10661,
+        "361341150": 10452,
+        "361341170": 10008,
+        "361351070": 7841,
+        "361351080": 7372,
+        "361351090": 8176,
+        "361351100": 7051,
+        "361351110": 5228,
+        "361351120": 7630,
+        "361351130": 9439,
+        "361351140": 10587,
+        "361351150": 8988,
+        "361351170": 8667,
+        "361361070": 16231,
+        "361361080": 14816,
+        "361361090": 15047,
+        "361361100": 13350,
+        "361361110": 10769,
+        "361361120": 16146,
+        "361361130": 20140,
+        "361361140": 21248,
+        "361361150": 19440,
+        "361361170": 18675,
+        "461341070": 13218,
+        "461341080": 11023,
+        "461341090": 11315,
+        "461341100": 11714,
+        "461341110": 8273,
+        "461341120": 2624,
+        "461341130": 3377,
+        "461341140": 3841,
+        "461341150": 3378,
+        "461341170": 3581,
+        "461351070": 11937,
+        "461351080": 10472,
+        "461351090": 9543,
+        "461351100": 11038,
+        "461351110": 6048,
+        "461351120": 2294,
+        "461351130": 2846,
+        "461351140": 2107,
+        "461351150": 2824,
+        "461351170": 3779,
+        "461361070": 25155,
+        "461361080": 21495,
+        "461361090": 20858,
+        "461361100": 22752,
+        "461361110": 14321,
+        "461361120": 4918,
+        "461361130": 6223,
+        "461361140": 5948,
+        "461361150": 6202,
+        "461361170": 7360,
+        "561341070": 11705,
+        "561341080": 14619,
+        "561341090": 15293,
+        "561341100": 12975,
+        "561341110": 11918,
+        "561341120": 563,
+        "561341130": 257,
+        "561341140": 298,
+        "561341150": 468,
+        "561341170": 715,
+        "561351070": 7991,
+        "561351080": 11115,
+        "561351090": 11322,
+        "561351100": 10254,
+        "561351110": 7168,
+        "561351120": 1466,
+        "561351130": 631,
+        "561351140": 1200,
+        "561351150": 1192,
+        "561351170": 2087,
+        "561361070": 19696,
+        "561361080": 25734,
+        "561361090": 26615,
+        "561361100": 23229,
+        "561361110": 19083,
+        "561361120": 2029,
+        "561361130": 888,
+        "561361140": 1498,
+        "561361150": 1660,
+        "561361170": 2802,
+        "661341070": 1432,
+        "661341080": 1386,
+        "661341090": 1699,
+        "661341100": 2188,
+        "661341110": 2106,
+        "661341120": 1563,
+        "661341130": 965,
+        "661341140": 2035,
+        "661341150": 2136,
+        "661341170": 2942,
+        "661351070": 1512,
+        "661351080": 1686,
+        "661351090": 2178,
+        "661351100": 2459,
+        "661351110": 1810,
+        "661351120": 879,
+        "661351130": 968,
+        "661351140": 1936,
+        "661351150": 2198,
+        "661351170": 2736,
+        "661361070": 2944,
+        "661361080": 3072,
+        "661361090": 3877,
+        "661361100": 4647,
+        "661361110": 3916,
+        "661361120": 2442,
+        "661361130": 1933,
+        "661361140": 3971,
+        "661361150": 4334,
+        "661361170": 5678
+    },
+    "related": {
+        "1": {
+            "id": "NzAjMg==",
+            "title": "Penduduk Kab. Samosir 15+ Termasuk Pengangguran By Pendidikan Tertinggi Ditamatkan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzAjMg==/penduduk-kab--samosir-15--termasuk-pengangguran-by-pendidikan-tertinggi-ditamatkan-dan-jenis-kelamin.html"
+        },
+        "2": {
+            "id": "NjMjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ yang Termasuk Angkatan Kerja By Golongan Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjMjMg==/penduduk-kabupaten-samosir-15--yang-termasuk-angkatan-kerja-by-golongan-umur-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NjUjMg==",
+            "title": "Penduduk Kab. Samosir 15+ yg Bekerja Selama Seminggu Lalu By Pendidikan Tertinggi dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjUjMg==/penduduk-kab--samosir-15--yg-bekerja-selama-seminggu-lalu-by-pendidikan-tertinggi-dan-jenis-kelamin.html"
+        },
+        "4": {
+            "id": "NzcjMg==",
+            "title": "Persentase Penduduk Kab. Samosir Berusia 10+ By Ijazah/STTB Tertinggi yg Dimiliki dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzcjMg==/persentase-penduduk-kab--samosir-berusia-10--by-ijazah-sttb-tertinggi-yg-dimiliki-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "NjQjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ yang Bekerja Selama Seminggu yang Lalu By Gol Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjQjMg==/penduduk-kabupaten-samosir-15--yang-bekerja-selama-seminggu-yang-lalu-by-gol-umur-dan-jenis-kelamin.html"
+        },
+        "6": {
+            "id": "NjAjMg==",
+            "title": "Penduduk Samosir 15 Tahun ke Atas Berdasarkan Kegiatan Seminggu yang Lalu dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjAjMg==/penduduk-samosir-15-tahun-ke-atas-berdasarkan-kegiatan-seminggu-yang-lalu-dan-jenis-kelamin.html"
+        },
+        "7": {
+            "id": "NjkjMg==",
+            "title": "Penduduk Kabupaten Samosir 15+ Bekerja Seminggu Lalu By Jenis Kelamin dan Status Pekerjaan Utama",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjkjMg==/penduduk-kabupaten-samosir-15--bekerja-seminggu-lalu-by-jenis-kelamin-dan-status-pekerjaan-utama.html"
+        }
+    }
+}

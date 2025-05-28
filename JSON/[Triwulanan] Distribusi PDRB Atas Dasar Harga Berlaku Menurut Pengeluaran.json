@@ -1,0 +1,184 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-03-26 08:06:02",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 220,
+            "label": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "PDRB Menurut Pengeluaran adalah  semua  komponen permintaan  akhir  yang  terdiri  dari:  (1) pengeluaran  konsumsi  akhir  rumah tangga  (2)  pengeluaran  konsumsi  akhir lembaga non profit yang melayani rumah tangga  (3)  pengeluaran  konsumsi  akhir pemerintah,  (4)  pembentukan  modal tetap  domestik  bruto,  (5)  perubahan inventori,  dan  (6)  ekspor  neto  (ekspor dikurangi impor). ",
+            "decimal": 2,
+            "note": "Sumber : BPS Kabupaten Samosir"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Konsumsi Akhir Rumah Tangga (PK-RT)"
+        },
+        {
+            "val": 2,
+            "label": "Konsumsi Akhir Pemerintah (PK-P)"
+        },
+        {
+            "val": 3,
+            "label": "Pembentukan Modal Tetap Bruto (PMTB)"
+        },
+        {
+            "val": 4,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 31,
+            "label": "Triwulan I"
+        },
+        {
+            "val": 32,
+            "label": "Triwulan II"
+        },
+        {
+            "val": 33,
+            "label": "Triwulan III"
+        },
+        {
+            "val": 34,
+            "label": "Triwulan IV"
+        },
+        {
+            "val": 35,
+            "label": "Tahunan"
+        }
+    ],
+    "datacontent": {
+        "1220012231": 59.23,
+        "1220012232": 58.38,
+        "1220012233": 61.13,
+        "1220012234": 60.94,
+        "1220012331": 61.23,
+        "1220012332": 60.96,
+        "1220012333": 61.25,
+        "1220012334": 61.35,
+        "1220012431": 61.84,
+        "1220012432": 60.9,
+        "1220012433": 61.33,
+        "1220012434": 59.89,
+        "2220012231": 20.76,
+        "2220012232": 19.38,
+        "2220012233": 19.73,
+        "2220012234": 19.28,
+        "2220012331": 18.44,
+        "2220012332": 19.99,
+        "2220012333": 18.29,
+        "2220012334": 18.69,
+        "2220012431": 17.61,
+        "2220012432": 19.4,
+        "2220012433": 17.27,
+        "2220012434": 17.98,
+        "3220012231": 14.12,
+        "3220012232": 14.17,
+        "3220012233": 14.72,
+        "3220012234": 15.02,
+        "3220012331": 14.73,
+        "3220012332": 14.18,
+        "3220012333": 15.31,
+        "3220012334": 14.92,
+        "3220012431": 14.32,
+        "3220012432": 13.88,
+        "3220012433": 15.43,
+        "3220012434": 15.94,
+        "4220012231": 5.88,
+        "4220012232": 8.07,
+        "4220012233": 4.42,
+        "4220012234": 4.76,
+        "4220012331": 5.6,
+        "4220012332": 4.87,
+        "4220012333": 5.16,
+        "4220012334": 5.04,
+        "4220012431": 6.23,
+        "4220012432": 5.83,
+        "4220012433": 5.97,
+        "4220012434": 6.19
+    },
+    "related": {
+        "1": {
+            "id": "MjE1IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE1IzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "MjI1IzI=",
+            "title": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjI1IzI=/-triwulanan--distribusi-pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha.html"
+        },
+        "3": {
+            "id": "MjE2IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE2IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MjIyIzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha ",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjIyIzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha-.html"
+        },
+        "5": {
+            "id": "MTY2IzI=",
+            "title": "Distribusi Persentase PDRB Atas Dasar Harga Berlaku 2010 Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY2IzI=/distribusi-persentase-pdrb-atas-dasar-harga-berlaku-2010-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTYxIzI=",
+            "title": "PDRB Atas Dasar Harga Berlaku Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTYxIzI=/pdrb-atas-dasar-harga-berlaku-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTk0IzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Berlaku menurut Pengeluaran Tahun 2018-2022",
+            "tablesource": 2,
+            "last_update": "2023-02-28",
+            "link": "/2/MTk0IzI=/pdrb-kabupaten-samosir-atas-dasar-harga-berlaku-menurut-pengeluaran-tahun-2018-2022.html"
+        }
+    }
+}

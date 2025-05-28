@@ -1,0 +1,264 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 528,
+            "label": "Aktivitas Politik dan Komunitas Lainnya"
+        }
+    ],
+    "var": [
+        {
+            "val": 54,
+            "label": "Banyaknya Kegiatan DPRD Kabupaten Samosir Menurut Jenis Sidang",
+            "unit": "",
+            "subj": "Politik dan Keamanan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Jenis Sidang",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Istimewa"
+        },
+        {
+            "val": 2,
+            "label": "Paripurna"
+        },
+        {
+            "val": 3,
+            "label": "Rapat Komisi"
+        },
+        {
+            "val": 4,
+            "label": "Rapat Gabungan Komisi"
+        },
+        {
+            "val": 5,
+            "label": "Badan Anggaran"
+        },
+        {
+            "val": 6,
+            "label": "Panitia Khusus"
+        },
+        {
+            "val": 7,
+            "label": "Rapat Kerja Dengar Pendapat"
+        },
+        {
+            "val": 8,
+            "label": "Rapat Kerja Dengar Pendapat Umum"
+        },
+        {
+            "val": 9,
+            "label": "Rapat Badan Musyawarah"
+        },
+        {
+            "val": 10,
+            "label": "Rapat Pimpinan DPRD"
+        },
+        {
+            "val": 11,
+            "label": "Rapat Fraksi"
+        },
+        {
+            "val": 12,
+            "label": "Rapat Konsultasi"
+        },
+        {
+            "val": 13,
+            "label": "Rapat Badan Pembentukan Peraturan Daerah"
+        },
+        {
+            "val": 14,
+            "label": "Rapat Badan Kehormatan"
+        },
+        {
+            "val": 15,
+            "label": "Rapat Kerja"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 109,
+            "label": "2009"
+        },
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "15401090": 6,
+        "15401100": 4,
+        "15401110": 3,
+        "15401120": 2,
+        "15401130": 4,
+        "15401140": 6,
+        "15401150": 4,
+        "15401160": 4,
+        "25401090": 10,
+        "25401100": 14,
+        "25401110": 24,
+        "25401120": 13,
+        "25401130": 13,
+        "25401140": 19,
+        "25401150": 16,
+        "25401160": 28,
+        "35401090": 12,
+        "35401100": 26,
+        "35401110": 57,
+        "35401120": 37,
+        "35401130": 18,
+        "35401140": 21,
+        "35401150": 54,
+        "35401160": 39,
+        "45401090": 1,
+        "45401100": null,
+        "45401110": null,
+        "45401120": null,
+        "45401130": null,
+        "45401140": null,
+        "45401150": 9,
+        "45401160": 5,
+        "55401090": 9,
+        "55401100": 25,
+        "55401110": 27,
+        "55401120": 7,
+        "55401130": 6,
+        "55401140": 7,
+        "55401150": 15,
+        "55401160": 8,
+        "65401090": 3,
+        "65401100": 5,
+        "65401110": 9,
+        "65401120": 17,
+        "65401130": 4,
+        "65401140": null,
+        "65401150": 18,
+        "65401160": null,
+        "75401160": 1,
+        "85401090": 9,
+        "85401100": 6,
+        "85401110": 5,
+        "85401120": 6,
+        "85401130": 5,
+        "85401140": 1,
+        "85401150": 6,
+        "85401160": 4,
+        "95401160": 13,
+        "105401090": 14,
+        "105401100": 16,
+        "105401110": 6,
+        "105401120": 7,
+        "105401130": 8,
+        "105401140": 5,
+        "105401150": 7,
+        "105401160": 10,
+        "115401090": 6,
+        "115401100": 7,
+        "115401110": 6,
+        "115401120": 8,
+        "115401130": 4,
+        "115401140": 4,
+        "115401150": 10,
+        "115401160": 20,
+        "125401150": 14,
+        "125401160": 8,
+        "135401150": 10,
+        "135401160": 25,
+        "145401160": 1,
+        "155401160": 2
+    },
+    "related": {
+        "1": {
+            "id": "NTEjMg==",
+            "title": "Banyaknya Keputusan DPRD Kabupaten Samosir Menurut Jenis Keputusan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NTEjMg==/banyaknya-keputusan-dprd-kabupaten-samosir-menurut-jenis-keputusan.html"
+        },
+        "2": {
+            "id": "NjEjMQ==",
+            "title": "Banyaknya Keputusan DPRD Menurut Jenis Keputusan di Kabupaten Samosir, 2011-2016",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NjEjMQ==/banyaknya-keputusan-dprd-menurut-jenis-keputusan-di-kabupaten-samosir--2011-2016.html"
+        },
+        "3": {
+            "id": "MjUjMQ==",
+            "title": "Banyaknya Keputusan DPRD Menurut Jenis Keputusan di Kabupaten Samosir Tahun 2011-2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MjUjMQ==/banyaknya-keputusan-dprd-menurut-jenis-keputusan-di-kabupaten-samosir-tahun-2011-2015.html"
+        },
+        "4": {
+            "id": "MjQjMQ==",
+            "title": "Banyaknya Keputusan DPRD Menurut Jenis Keputusan di Kabupaten Samosir Tahun 2011-2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MjQjMQ==/banyaknya-keputusan-dprd-menurut-jenis-keputusan-di-kabupaten-samosir-tahun-2011-2015.html"
+        },
+        "5": {
+            "id": "MTgxIzI=",
+            "title": "Banyaknya Pelaku Kejahatan Menurut Jenis Kelamin dan Jenis Kejahatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTgxIzI=/banyaknya-pelaku-kejahatan-menurut-jenis-kelamin-dan-jenis-kejahatan-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MjYjMQ==",
+            "title": "Banyaknya PNS Menurut Umur dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MjYjMQ==/banyaknya-pns-menurut-umur-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        }
+    }
+}

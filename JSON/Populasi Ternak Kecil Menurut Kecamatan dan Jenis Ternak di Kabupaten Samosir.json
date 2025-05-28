@@ -1,0 +1,169 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 557,
+            "label": "Pertanian, Kehutanan, Perikanan"
+        }
+    ],
+    "var": [
+        {
+            "val": 91,
+            "label": "Populasi Ternak Kecil Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir",
+            "unit": "Ekor",
+            "subj": "Peternakan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 67,
+            "label": "Kambing"
+        },
+        {
+            "val": 68,
+            "label": "Domba"
+        },
+        {
+            "val": 69,
+            "label": "Babi"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "191671150": 402,
+        "191681150": 153,
+        "191691150": 2593,
+        "291671150": 167,
+        "291691150": 1097,
+        "391671150": 371,
+        "391691150": 1232,
+        "491671150": 734,
+        "491681150": 19,
+        "491691150": 3928,
+        "591671150": 447,
+        "591691150": 8926,
+        "691671150": 1253,
+        "691681150": 164,
+        "691691150": 4179,
+        "791671150": 1034,
+        "791691150": 1690,
+        "891671150": 3642,
+        "891681150": 26,
+        "891691150": 4628,
+        "991671150": 1650,
+        "991691150": 14079,
+        "1091671150": 9700,
+        "1091681150": 362,
+        "1091691150": 42352
+    },
+    "related": {
+        "1": {
+            "id": "OTMjMg==",
+            "title": "Populasi Ternak Besar Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTMjMg==/populasi-ternak-besar-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir.html"
+        },
+        "2": {
+            "id": "OTAjMg==",
+            "title": "Populasi Ternak Unggas Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTAjMg==/populasi-ternak-unggas-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MzYjMQ==",
+            "title": "Populasi Ternak Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir (Ekor) Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MzYjMQ==/populasi-ternak-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir--ekor--tahun-2015.html"
+        },
+        "4": {
+            "id": "OTUjMg==",
+            "title": "Produksi Daging Ternak Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTUjMg==/produksi-daging-ternak-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MzcjMQ==",
+            "title": "Produksi Daging Menurut Kecamatan dan Jenis Ternak di Kabupaten Samosir (Kg) Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MzcjMQ==/produksi-daging-menurut-kecamatan-dan-jenis-ternak-di-kabupaten-samosir--kg--tahun-2015.html"
+        },
+        "7": {
+            "id": "OTgjMg==",
+            "title": "Produksi Telur Menurut Kecamatan dan Jenis Unggas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/OTgjMg==/produksi-telur-menurut-kecamatan-dan-jenis-unggas-di-kabupaten-samosir.html"
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 534,
+            "label": "Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik"
+        }
+    ],
+    "var": [
+        {
+            "val": 169,
+            "label": "Banyaknya PNS Daerah Otonom Kabupaten Samosir Menurut Kelompok Umur dan Jenis Kelamin",
+            "unit": "Jiwa",
+            "subj": "Pemerintahan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Kelompok Umur Pegawai",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "20 - 24"
+        },
+        {
+            "val": 2,
+            "label": "25 - 44"
+        },
+        {
+            "val": 3,
+            "label": "45 - 60"
+        },
+        {
+            "val": 4,
+            "label": "Jumlah"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1169351160": 3,
+        "1169361160": 3,
+        "2169341160": 638,
+        "2169351160": 1069,
+        "2169361160": 1707,
+        "3169341160": 493,
+        "3169351160": 976,
+        "3169361160": 1469,
+        "4169341160": 1131,
+        "4169351160": 2048,
+        "4169361160": 3179
+    },
+    "related": {
+        "1": {
+            "id": "MjYjMQ==",
+            "title": "Banyaknya PNS Menurut Umur dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MjYjMQ==/banyaknya-pns-menurut-umur-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "2": {
+            "id": "MzYjMg==",
+            "title": "Penduduk Kabupaten Samosir Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzYjMg==/penduduk-kabupaten-samosir-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NiMx",
+            "title": "Banyaknya Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NiMx/banyaknya-penduduk-menurut-kelompok-umur-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "4": {
+            "id": "NzkjMg==",
+            "title": "Tingkat Buta Huruf Penduduk Kabupaten Samosir Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzkjMg==/tingkat-buta-huruf-penduduk-kabupaten-samosir-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "NDAjMg==",
+            "title": "Persentase Penduduk Kabupaten Samosir yang Masih Sekolah Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDAjMg==/persentase-penduduk-kabupaten-samosir-yang-masih-sekolah-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "6": {
+            "id": "MzcjMg==",
+            "title": "Penduduk Kabupaten Samosir Menurut Umur Tunggal dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzcjMg==/penduduk-kabupaten-samosir-menurut-umur-tunggal-dan-jenis-kelamin.html"
+        },
+        "7": {
+            "id": "WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==",
+            "title": "Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin (ribu jiwa) di Kabupaten Samosir, 2022",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/WVc0MGEyMXBkVFUxY25KeE9HdDZkbTQzWkVkb1p6MDkjMw==/jumlah-penduduk-menurut-kelompok-umur-dan-jenis-kelamin--ribu-jiwa--di-kabupaten-samosir--2022.html?year=2022"
+        }
+    }
+}

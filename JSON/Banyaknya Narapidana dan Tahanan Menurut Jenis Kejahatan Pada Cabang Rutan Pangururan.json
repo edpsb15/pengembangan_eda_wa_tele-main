@@ -1,0 +1,384 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 526,
+            "label": "Hukum dan Kriminal"
+        }
+    ],
+    "var": [
+        {
+            "val": 184,
+            "label": "Banyaknya Narapidana dan Tahanan Menurut Jenis Kejahatan Pada Cabang Rutan Pangururan",
+            "unit": "Jiwa",
+            "subj": "Politik dan Keamanan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Jenis Kejahatan dan Pelanggaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Pelanggaran Terhadap Kepala Negara"
+        },
+        {
+            "val": 2,
+            "label": "Ketertiban Umum"
+        },
+        {
+            "val": 3,
+            "label": "Pembakaran"
+        },
+        {
+            "val": 4,
+            "label": "Kesusilaan"
+        },
+        {
+            "val": 5,
+            "label": "Perjudian"
+        },
+        {
+            "val": 6,
+            "label": "Penculikan"
+        },
+        {
+            "val": 7,
+            "label": "Pembunuhan"
+        },
+        {
+            "val": 8,
+            "label": "Penganiayaan"
+        },
+        {
+            "val": 9,
+            "label": "Pencurian"
+        },
+        {
+            "val": 10,
+            "label": "Perampokan"
+        },
+        {
+            "val": 11,
+            "label": "Pemerasan"
+        },
+        {
+            "val": 12,
+            "label": "Penggelapan"
+        },
+        {
+            "val": 13,
+            "label": "Penipuan"
+        },
+        {
+            "val": 14,
+            "label": "Penadahan"
+        },
+        {
+            "val": 15,
+            "label": "Lain-lain"
+        },
+        {
+            "val": 16,
+            "label": "Kejahatan Ekonomi"
+        },
+        {
+            "val": 17,
+            "label": "Pelanggaran KUHP"
+        },
+        {
+            "val": 18,
+            "label": "Pelanggaran Ekonomi"
+        },
+        {
+            "val": 19,
+            "label": "Merusak barang"
+        },
+        {
+            "val": 20,
+            "label": "Narkotik"
+        },
+        {
+            "val": 21,
+            "label": "UU No.41 Tahun 1999"
+        },
+        {
+            "val": 22,
+            "label": "Dalam jabatan"
+        },
+        {
+            "val": 23,
+            "label": "KDRT Psl 44 UU R.I No.2004"
+        },
+        {
+            "val": 24,
+            "label": "Jumlah"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "118401100": null,
+        "118401110": null,
+        "118401120": null,
+        "118401130": null,
+        "118401140": null,
+        "118401150": null,
+        "118401160": null,
+        "218401100": 8,
+        "218401110": null,
+        "218401120": null,
+        "218401130": null,
+        "218401140": null,
+        "218401150": null,
+        "218401160": null,
+        "318401100": null,
+        "318401110": null,
+        "318401120": null,
+        "318401130": null,
+        "318401140": null,
+        "318401150": null,
+        "318401160": 2,
+        "418401100": 166,
+        "418401110": 51,
+        "418401120": 38,
+        "418401130": 13,
+        "418401140": 2,
+        "418401150": 9,
+        "418401160": 3,
+        "518401100": 241,
+        "518401110": 257,
+        "518401120": 80,
+        "518401130": 23,
+        "518401140": 22,
+        "518401150": 24,
+        "518401160": 5,
+        "618401100": null,
+        "618401110": null,
+        "618401120": null,
+        "618401130": null,
+        "618401140": 1,
+        "618401150": null,
+        "618401160": null,
+        "718401100": 80,
+        "718401110": 35,
+        "718401120": 26,
+        "718401130": 3,
+        "718401140": 4,
+        "718401150": 10,
+        "718401160": 4,
+        "818401100": 91,
+        "818401110": 140,
+        "818401120": 44,
+        "818401130": 16,
+        "818401140": 7,
+        "818401150": 20,
+        "818401160": 6,
+        "918401100": 68,
+        "918401110": 90,
+        "918401120": 50,
+        "918401130": 25,
+        "918401140": 13,
+        "918401150": 30,
+        "918401160": 34,
+        "1018401100": null,
+        "1018401110": null,
+        "1018401120": null,
+        "1018401130": null,
+        "1018401140": null,
+        "1018401150": null,
+        "1018401160": 2,
+        "1118401100": 1,
+        "1118401110": null,
+        "1118401120": 6,
+        "1118401130": null,
+        "1118401140": null,
+        "1118401150": null,
+        "1118401160": 1,
+        "1218401100": 30,
+        "1218401110": 5,
+        "1218401120": 6,
+        "1218401130": 2,
+        "1218401140": 3,
+        "1218401150": 7,
+        "1218401160": 1,
+        "1318401100": 15,
+        "1318401110": 4,
+        "1318401120": 10,
+        "1318401130": 2,
+        "1318401140": 4,
+        "1318401150": 8,
+        "1318401160": 2,
+        "1418401100": null,
+        "1418401110": null,
+        "1418401120": 2,
+        "1418401130": 2,
+        "1418401140": 1,
+        "1418401150": 2,
+        "1418401160": 4,
+        "1518401100": null,
+        "1518401110": 115,
+        "1518401120": null,
+        "1518401130": null,
+        "1518401140": 2,
+        "1518401150": 2,
+        "1518401160": 10,
+        "1618401100": 1,
+        "1618401110": 19,
+        "1618401120": 7,
+        "1618401130": null,
+        "1618401140": null,
+        "1618401150": null,
+        "1618401160": null,
+        "1718401100": null,
+        "1718401110": null,
+        "1718401120": null,
+        "1718401130": null,
+        "1718401140": null,
+        "1718401150": null,
+        "1718401160": null,
+        "1818401100": null,
+        "1818401110": null,
+        "1818401120": 6,
+        "1818401130": null,
+        "1818401140": null,
+        "1818401150": null,
+        "1818401160": null,
+        "1918401100": 44,
+        "1918401110": 19,
+        "1918401120": 18,
+        "1918401130": null,
+        "1918401140": 2,
+        "1918401150": 1,
+        "1918401160": 2,
+        "2018401100": 87,
+        "2018401110": 44,
+        "2018401120": 44,
+        "2018401130": 12,
+        "2018401140": 17,
+        "2018401150": 26,
+        "2018401160": 36,
+        "2118401100": null,
+        "2118401110": null,
+        "2118401120": null,
+        "2118401130": null,
+        "2118401140": 3,
+        "2118401150": null,
+        "2118401160": null,
+        "2218401100": null,
+        "2218401110": null,
+        "2218401120": null,
+        "2218401130": null,
+        "2218401140": null,
+        "2218401150": null,
+        "2218401160": null,
+        "2318401100": 41,
+        "2318401110": 45,
+        "2318401120": 8,
+        "2318401130": 1,
+        "2318401140": 1,
+        "2318401150": 3,
+        "2318401160": 3,
+        "2418401100": 873,
+        "2418401110": 824,
+        "2418401120": 345,
+        "2418401130": 99,
+        "2418401140": 82,
+        "2418401150": 142,
+        "2418401160": 115
+    },
+    "related": {
+        "1": {
+            "id": "MTgyIzI=",
+            "title": "Perkara Pidana yang Masuk dan Diputuskan oleh Cabang Kejaksaan Negeri Balige di Pangururan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTgyIzI=/perkara-pidana-yang-masuk-dan-diputuskan-oleh-cabang-kejaksaan-negeri-balige-di-pangururan.html"
+        },
+        "2": {
+            "id": "MTgxIzI=",
+            "title": "Banyaknya Pelaku Kejahatan Menurut Jenis Kelamin dan Jenis Kejahatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTgxIzI=/banyaknya-pelaku-kejahatan-menurut-jenis-kelamin-dan-jenis-kejahatan-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "NTMjMQ==",
+            "title": "Banyaknya Pelanggan Energi Listrik Pada PT. PLN (Persero) Ranting Pangururan Menurut Kategori Pelanggan Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NTMjMQ==/banyaknya-pelanggan-energi-listrik-pada-pt--pln--persero--ranting-pangururan-menurut-kategori-pelanggan-tahun-2015.html"
+        },
+        "4": {
+            "id": "NTUjMQ==",
+            "title": "Banyaknya Desa/Kelurahan yang Dialiri Air Minum PDAM Tirtanadi Cabang Samosir dan Banyaknya Pelanggan Menurut Kecamatan Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NTUjMQ==/banyaknya-desa-kelurahan-yang-dialiri-air-minum-pdam-tirtanadi-cabang-samosir-dan-banyaknya-pelanggan-menurut-kecamatan-tahun-2015.html"
+        },
+        "5": {
+            "id": "MTAjMQ==",
+            "title": "Banyaknya Penduduk 15 Tahun ke Atas Menurut Jenis Kegiatan Utama dan Jenis Kelamin Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MTAjMQ==/banyaknya-penduduk-15-tahun-ke-atas-menurut-jenis-kegiatan-utama-dan-jenis-kelamin-tahun-2015.html"
+        },
+        "6": {
+            "id": "NDEjMQ==",
+            "title": "Banyaknya Penduduk Berdasarkan Kecamatan dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NDEjMQ==/banyaknya-penduduk-berdasarkan-kecamatan-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "7": {
+            "id": "NTYjMg==",
+            "title": "Banyaknya Pegawai Negeri Sipil Otonomi Daerah  Menurut Golongan Kepangkatan Dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NTYjMg==/banyaknya-pegawai-negeri-sipil-otonomi-daerah--menurut-golongan-kepangkatan-dan-jenis-kelamin.html"
+        }
+    }
+}

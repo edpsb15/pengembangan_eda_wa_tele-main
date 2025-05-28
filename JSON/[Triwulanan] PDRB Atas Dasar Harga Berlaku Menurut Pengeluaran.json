@@ -1,0 +1,184 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-03-26 08:04:58",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 215,
+            "label": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "unit": "Milyar Rupiah",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "PDRB Menurut Pengeluaran adalah  semua  komponen permintaan  akhir  yang  terdiri  dari:  (1) pengeluaran  konsumsi  akhir  rumah tangga  (2)  pengeluaran  konsumsi  akhir lembaga non profit yang melayani rumah tangga  (3)  pengeluaran  konsumsi  akhir pemerintah,  (4)  pembentukan  modal tetap  domestik  bruto,  (5)  perubahan inventori,  dan  (6)  ekspor  neto  (ekspor dikurangi impor). ",
+            "decimal": 2,
+            "note": "Sumber : BPS Kabupaten Samosir"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Konsumsi Akhir Rumah Tangga (PK-RT)"
+        },
+        {
+            "val": 2,
+            "label": "Konsumsi Akhir Pemerintah (PK-P)"
+        },
+        {
+            "val": 3,
+            "label": "Pembentukan Modal Tetap Bruto (PMTB)"
+        },
+        {
+            "val": 4,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 31,
+            "label": "Triwulan I"
+        },
+        {
+            "val": 32,
+            "label": "Triwulan II"
+        },
+        {
+            "val": 33,
+            "label": "Triwulan III"
+        },
+        {
+            "val": 34,
+            "label": "Triwulan IV"
+        },
+        {
+            "val": 35,
+            "label": "Tahunan"
+        }
+    ],
+    "datacontent": {
+        "1215012231": 723.5,
+        "1215012232": 769.86,
+        "1215012233": 790.87,
+        "1215012234": 811.89,
+        "1215012331": 829.53,
+        "1215012332": 866.75,
+        "1215012333": 874.97,
+        "1215012334": 889.93,
+        "1215012431": 902.37,
+        "1215012432": 930.21,
+        "1215012433": 928.07,
+        "1215012434": 958.52,
+        "2215012231": 253.64,
+        "2215012232": 255.54,
+        "2215012233": 255.33,
+        "2215012234": 256.83,
+        "2215012331": 249.83,
+        "2215012332": 284.21,
+        "2215012333": 261.34,
+        "2215012334": 271.18,
+        "2215012431": 257.02,
+        "2215012432": 296.29,
+        "2215012433": 261.35,
+        "2215012434": 287.71,
+        "3215012231": 172.54,
+        "3215012232": 186.86,
+        "3215012233": 190.47,
+        "3215012234": 200.13,
+        "3215012331": 199.54,
+        "3215012332": 201.64,
+        "3215012333": 218.65,
+        "3215012334": 216.4,
+        "3215012431": 208.96,
+        "3215012432": 212.05,
+        "3215012433": 233.47,
+        "3215012434": 255.06,
+        "4215012231": 71.88,
+        "4215012232": 106.35,
+        "4215012233": 57.17,
+        "4215012234": 63.38,
+        "4215012331": 75.8,
+        "4215012332": 69.27,
+        "4215012333": 73.67,
+        "4215012334": 73.03,
+        "4215012431": 90.85,
+        "4215012432": 89.01,
+        "4215012433": 90.36,
+        "4215012434": 99.13
+    },
+    "related": {
+        "1": {
+            "id": "MjIwIzI=",
+            "title": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjIwIzI=/-triwulanan--distribusi-pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "MjE2IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE2IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-pengeluaran.html"
+        },
+        "3": {
+            "id": "MjIyIzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha ",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjIyIzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha-.html"
+        },
+        "4": {
+            "id": "MjI1IzI=",
+            "title": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjI1IzI=/-triwulanan--distribusi-pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha.html"
+        },
+        "5": {
+            "id": "MTYxIzI=",
+            "title": "PDRB Atas Dasar Harga Berlaku Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTYxIzI=/pdrb-atas-dasar-harga-berlaku-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTk0IzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Berlaku menurut Pengeluaran Tahun 2018-2022",
+            "tablesource": 2,
+            "last_update": "2023-02-28",
+            "link": "/2/MTk0IzI=/pdrb-kabupaten-samosir-atas-dasar-harga-berlaku-menurut-pengeluaran-tahun-2018-2022.html"
+        },
+        "7": {
+            "id": "MjI0IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Lapangan Usaha  ",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjI0IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-lapangan-usaha--.html"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 557,
+            "label": "Pertanian, Kehutanan, Perikanan"
+        }
+    ],
+    "var": [
+        {
+            "val": 105,
+            "label": "Luas Panen, Produksi dan Produktivitas Tanaman Sayur-Sayuran By Jenis Tanaman di Kabupaten Samosir",
+            "unit": "",
+            "subj": "Hortikultura",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 73,
+            "label": "Luas Panen (ha)"
+        },
+        {
+            "val": 74,
+            "label": "Produksi (ton)"
+        },
+        {
+            "val": 75,
+            "label": "Produktivitas (Kwintal/ha)"
+        }
+    ],
+    "labelvervar": "Tanaman Sayur-sayuran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Bawang Merah"
+        },
+        {
+            "val": 2,
+            "label": "Bawang Daun"
+        },
+        {
+            "val": 3,
+            "label": "Bayam"
+        },
+        {
+            "val": 4,
+            "label": "Cabe"
+        },
+        {
+            "val": 5,
+            "label": "Kacang Panjang"
+        },
+        {
+            "val": 6,
+            "label": "Kentang"
+        },
+        {
+            "val": 7,
+            "label": "Ketimun"
+        },
+        {
+            "val": 8,
+            "label": "Kubis"
+        },
+        {
+            "val": 9,
+            "label": "Tomat"
+        },
+        {
+            "val": 10,
+            "label": "Bawang Putih"
+        },
+        {
+            "val": 11,
+            "label": "Buncis"
+        },
+        {
+            "val": 12,
+            "label": "Kangkung"
+        },
+        {
+            "val": 13,
+            "label": "Cabe Rawit"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1105731150": 210,
+        "1105741150": 1352.7,
+        "1105751150": 64.41,
+        "2105731150": 1,
+        "2105741150": 5.3,
+        "2105751150": 53,
+        "3105731150": 4,
+        "3105741150": 20.9,
+        "3105751150": 52.25,
+        "4105731150": 200,
+        "4105741150": 1474.3,
+        "4105751150": 73.71,
+        "5105731150": 7,
+        "5105741150": 37.6,
+        "5105751150": 53.71,
+        "6105731150": 518,
+        "6105741150": 12950,
+        "6105751150": 250,
+        "7105731150": 1,
+        "7105741150": 8.1,
+        "7105751150": 81,
+        "8105731150": 74,
+        "8105741150": 1124,
+        "8105751150": 151.89,
+        "9105731150": 83,
+        "9105741150": 627.6,
+        "9105751150": 75.61,
+        "10105731150": 2,
+        "10105741150": 12,
+        "10105751150": 60,
+        "11105731150": null,
+        "11105741150": null,
+        "11105751150": null,
+        "12105731150": 6,
+        "12105741150": 34.9,
+        "12105751150": 58.17,
+        "13105731150": 108,
+        "13105741150": 778.2,
+        "13105751150": 72.06
+    },
+    "related": {
+        "1": {
+            "id": "MTAyIzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Tanaman Cabe By Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTAyIzI=/luas-panen--produksi-dan-produktivitas-tanaman-cabe-by-kecamatan-di-kabupaten-samosir.html"
+        },
+        "2": {
+            "id": "MTAzIzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Tanaman Bawang Merah Menurut Kecamatan  di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTAzIzI=/luas-panen--produksi-dan-produktivitas-tanaman-bawang-merah-menurut-kecamatan--di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTEwIzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Menurut Kecamatan Jagung di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTEwIzI=/luas-panen--produksi-dan-produktivitas-menurut-kecamatan-jagung-di-kabupaten-samosir.html"
+        },
+        "4": {
+            "id": "MTA3IzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Ubi Kayu Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTA3IzI=/luas-panen--produksi-dan-produktivitas-ubi-kayu-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTA5IzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Kacang Kedelai Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTA5IzI=/luas-panen--produksi-dan-produktivitas-kacang-kedelai-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTA4IzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Kacang Tanah Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTA4IzI=/luas-panen--produksi-dan-produktivitas-kacang-tanah-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTA2IzI=",
+            "title": "Luas Panen, Produksi dan Produktivitas Ubi Jalar Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTA2IzI=/luas-panen--produksi-dan-produktivitas-ubi-jalar-menurut-kecamatan-di-kabupaten-samosir.html"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 563,
+            "label": "Kondisi Tempat Tinggal, Kemiskinan, dan Permasalahan Sosial Lintas Sektor"
+        }
+    ],
+    "var": [
+        {
+            "val": 49,
+            "label": "Data Strategis Kemiskinan",
+            "unit": "",
+            "subj": "Kemiskinan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Statistik Kemiskinan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Garis Kemiskinan (Rp)"
+        },
+        {
+            "val": 2,
+            "label": "Jumlah  Penduduk Miskin (000 jiwa)"
+        },
+        {
+            "val": 3,
+            "label": "Persentase Penduduk Miskin (%)"
+        },
+        {
+            "val": 4,
+            "label": "Keluarga Pra Sejahtera (rumah tangga)"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "14901110": 220103,
+        "14901120": 225827,
+        "14901130": 228767,
+        "14901140": 235355,
+        "14901150": 242263,
+        "24901110": 18.9,
+        "24901120": 18.5,
+        "24901130": 17.2,
+        "24901140": 16.27,
+        "24901150": 17.64,
+        "34901110": 15.67,
+        "34901120": 15.17,
+        "34901130": 14.01,
+        "34901140": 13.2,
+        "34901150": 14.11,
+        "44901110": 11398,
+        "44901120": 13831,
+        "44901130": 13825,
+        "44901140": 9764
+    },
+    "related": {
+        "1": {
+            "id": "MjEwIzI=",
+            "title": "Garis Kemiskinan",
+            "tablesource": 2,
+            "last_update": "2024-07-05",
+            "link": "/2/MjEwIzI=/garis-kemiskinan.html"
+        },
+        "2": {
+            "id": "MjE0IzI=",
+            "title": "Indeks Keparahan Kemiskinan (P2)",
+            "tablesource": 2,
+            "last_update": "2024-07-05",
+            "link": "/2/MjE0IzI=/indeks-keparahan-kemiskinan--p2-.html"
+        },
+        "3": {
+            "id": "MjEzIzI=",
+            "title": "Indeks Kedalaman Kemiskinan (P1)",
+            "tablesource": 2,
+            "last_update": "2024-07-05",
+            "link": "/2/MjEzIzI=/indeks-kedalaman-kemiskinan--p1-.html"
+        }
+    }
+}

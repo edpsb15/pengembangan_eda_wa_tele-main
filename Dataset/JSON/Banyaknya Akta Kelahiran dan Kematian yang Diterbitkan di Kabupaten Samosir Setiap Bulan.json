@@ -1,0 +1,195 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 534,
+            "label": "Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik"
+        }
+    ],
+    "var": [
+        {
+            "val": 177,
+            "label": "Banyaknya Akta Kelahiran dan Kematian yang Diterbitkan di Kabupaten Samosir Setiap Bulan",
+            "unit": "Dokumen",
+            "subj": "Pemerintahan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 143,
+            "label": "Akta Kelahiran"
+        },
+        {
+            "val": 144,
+            "label": "Akta Kematian"
+        },
+        {
+            "val": 145,
+            "label": "Jumlah"
+        }
+    ],
+    "labelvervar": "Bulan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Januari"
+        },
+        {
+            "val": 2,
+            "label": "Februari"
+        },
+        {
+            "val": 3,
+            "label": "Maret"
+        },
+        {
+            "val": 4,
+            "label": "April"
+        },
+        {
+            "val": 5,
+            "label": "Mei"
+        },
+        {
+            "val": 6,
+            "label": "Juni"
+        },
+        {
+            "val": 7,
+            "label": "Juli"
+        },
+        {
+            "val": 8,
+            "label": "Agustus"
+        },
+        {
+            "val": 9,
+            "label": "September"
+        },
+        {
+            "val": 10,
+            "label": "Oktober"
+        },
+        {
+            "val": 11,
+            "label": "November"
+        },
+        {
+            "val": 12,
+            "label": "Desember"
+        },
+        {
+            "val": 13,
+            "label": "Jumlah"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "11771431160": 267,
+        "11771441160": 9,
+        "11771451160": 276,
+        "21771431160": 411,
+        "21771441160": 3,
+        "21771451160": 414,
+        "31771431160": 284,
+        "31771441160": 2,
+        "31771451160": 286,
+        "41771431160": 487,
+        "41771441160": 6,
+        "41771451160": 493,
+        "51771431160": 689,
+        "51771441160": 7,
+        "51771451160": 696,
+        "61771431160": 1621,
+        "61771441160": 10,
+        "61771451160": 1631,
+        "71771431160": 2325,
+        "71771441160": 4,
+        "71771451160": 2329,
+        "81771431160": 1696,
+        "81771441160": 6,
+        "81771451160": 1702,
+        "91771431160": 2153,
+        "91771441160": 6,
+        "91771451160": 2159,
+        "101771431160": 2008,
+        "101771441160": 2,
+        "101771451160": 2010,
+        "111771431160": 635,
+        "111771441160": 6,
+        "111771451160": 641,
+        "121771431160": 272,
+        "121771441160": 2,
+        "121771451160": 274,
+        "131771431160": 12848,
+        "131771441160": 63,
+        "131771451160": 12911
+    },
+    "related": {
+        "1": {
+            "id": "MTQ3IzI=",
+            "title": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTQ3IzI=/banyaknya-akta-kelahiran-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan.html"
+        },
+        "2": {
+            "id": "MTc2IzI=",
+            "title": "Banyaknya Akta Kematian yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc2IzI=/banyaknya-akta-kematian-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "MTc1IzI=",
+            "title": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc1IzI=/banyaknya-akta-kelahiran-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan-dan-jenis-kelamin.html"
+        },
+        "4": {
+            "id": "NDEjMg==",
+            "title": "Banyaknya Wisatawan yang Berkunjung ke Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDEjMg==/banyaknya-wisatawan-yang-berkunjung-ke-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "NSMx",
+            "title": "Rata-rata Jumlah Hari Hujan dan Curah Hujan Setiap Bulan di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NSMx/rata-rata-jumlah-hari-hujan-dan-curah-hujan-setiap-bulan-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "6": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTgjMQ==",
+            "title": "Banyaknya Fasilitas Kesehatan di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MTgjMQ==/banyaknya-fasilitas-kesehatan-di-kabupaten-samosir-tahun-2015.html"
+        }
+    }
+}

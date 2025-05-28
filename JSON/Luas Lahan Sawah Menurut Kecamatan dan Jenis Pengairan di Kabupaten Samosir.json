@@ -1,0 +1,174 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 557,
+            "label": "Pertanian, Kehutanan, Perikanan"
+        }
+    ],
+    "var": [
+        {
+            "val": 111,
+            "label": "Luas Lahan Sawah Menurut Kecamatan dan Jenis Pengairan di Kabupaten Samosir",
+            "unit": "Hektar",
+            "subj": "Tanaman Pangan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 76,
+            "label": "Irigasi "
+        },
+        {
+            "val": 77,
+            "label": "Non Irigasi"
+        },
+        {
+            "val": 78,
+            "label": "Jumlah"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "1111761150": 917,
+        "1111771150": null,
+        "1111781150": 917,
+        "2111761150": 534,
+        "2111771150": null,
+        "2111781150": 534,
+        "3111761150": 243,
+        "3111771150": 80,
+        "3111781150": 323,
+        "4111761150": 240,
+        "4111771150": 745,
+        "4111781150": 985,
+        "5111761150": 222,
+        "5111771150": 638,
+        "5111781150": 860,
+        "6111761150": 650,
+        "6111771150": 600,
+        "6111781150": 1250,
+        "7111761150": null,
+        "7111771150": 317,
+        "7111781150": 317,
+        "8111761150": 62,
+        "8111771150": 722,
+        "8111781150": 784,
+        "9111761150": 100,
+        "9111771150": 460,
+        "9111781150": 560,
+        "10111761150": 2968,
+        "10111771150": 3562,
+        "10111781150": 6530
+    },
+    "related": {
+        "1": {
+            "id": "MzgjMQ==",
+            "title": "Luas Lahan Sawah Menurut Kecamatan dan Jenis Pengairan di Kabupaten Samosir (Ha) Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MzgjMQ==/luas-lahan-sawah-menurut-kecamatan-dan-jenis-pengairan-di-kabupaten-samosir--ha--tahun-2015.html"
+        },
+        "2": {
+            "id": "YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==",
+            "title": "Luas Panen Tanaman Hias Menurut Kecamatan dan Jenis Tanaman di Kabupaten Samosir, 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==/luas-panen-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-samosir--2018.html?year=2018"
+        },
+        "3": {
+            "id": "YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==",
+            "title": "Luas Panen Tanaman Hias Menurut Kecamatan dan Jenis Tanaman di Kabupaten Samosir, 2019",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==/luas-panen-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-samosir--2019.html?year=2019"
+        },
+        "4": {
+            "id": "YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==",
+            "title": "Luas Panen Tanaman Hias Menurut Kecamatan dan Jenis Tanaman di Kabupaten Samosir, 2021",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==/luas-panen-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-samosir--2021.html?year=2021"
+        },
+        "5": {
+            "id": "YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==",
+            "title": "Luas Panen Tanaman Hias Menurut Kecamatan dan Jenis Tanaman di Kabupaten Samosir, 2023",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==/luas-panen-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-samosir--2023.html?year=2023"
+        },
+        "6": {
+            "id": "TW5CbGNpOTFNamhoUzFGeGIxWm1TMk5DVlV4Vlp6MDkjMw==",
+            "title": "Luas Panen Tanaman Biofarmaka Menurut Kecamatan dan Jenis Tanaman  di Kabupaten Samosir, 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/TW5CbGNpOTFNamhoUzFGeGIxWm1TMk5DVlV4Vlp6MDkjMw==/luas-panen-tanaman-biofarmaka-menurut-kecamatan-dan-jenis-tanaman---di-kabupaten-samosir--2018.html?year=2018"
+        },
+        "7": {
+            "id": "YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==",
+            "title": "Luas Panen Tanaman Hias Menurut Kecamatan dan Jenis Tanaman di Kabupaten Samosir, 2024",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YldKTGJHWkpaWEJvYVRRMVZDOUxRa1pSYTFOelFUMDkjMw==/luas-panen-tanaman-hias-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-samosir--2024.html?year=2024"
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 560,
+            "label": "Transportasi"
+        }
+    ],
+    "var": [
+        {
+            "val": 180,
+            "label": "Banyaknya Kecelakaan dan Pelanggaran Lalu Lintas di Kabupaten Samosir",
+            "unit": "",
+            "subj": "Politik dan Keamanan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Kecelakaan dan Pelanggaran Lalu Lintas",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Kecelakaan Lalu Lintas (kasus)"
+        },
+        {
+            "val": 2,
+            "label": "Korban Meninggal Dunia (orang)"
+        },
+        {
+            "val": 3,
+            "label": "Korban Luka Berat (orang)"
+        },
+        {
+            "val": 4,
+            "label": "Korban Luka Ringan (orang)"
+        },
+        {
+            "val": 5,
+            "label": "Tilang (lembar)"
+        },
+        {
+            "val": 6,
+            "label": "Denda (Rp.000)"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "118001100": 12,
+        "118001110": 31,
+        "118001120": 8,
+        "118001130": 42,
+        "118001140": 32,
+        "118001150": 39,
+        "118001160": 38,
+        "218001100": 6,
+        "218001110": 23,
+        "218001120": 7,
+        "218001130": 27,
+        "218001140": 16,
+        "218001150": 7,
+        "218001160": 17,
+        "318001100": 1,
+        "318001110": 24,
+        "318001120": 8,
+        "318001130": 16,
+        "318001140": 5,
+        "318001150": 2,
+        "318001160": 10,
+        "418001100": 11,
+        "418001110": 22,
+        "418001120": 9,
+        "418001130": 37,
+        "418001140": 38,
+        "418001150": 30,
+        "418001160": 38,
+        "518001100": 1852,
+        "518001110": 2904,
+        "518001120": 636,
+        "518001130": 2849,
+        "518001140": 2476,
+        "518001150": 876,
+        "518001160": 2793,
+        "618001100": 37040,
+        "618001110": 58080,
+        "618001120": 12720,
+        "618001130": 53260,
+        "618001140": 51320,
+        "618001150": 13360,
+        "618001160": 71820
+    },
+    "related": {
+        "1": {
+            "id": "MzMjMg==",
+            "title": "Banyaknya Penduduk dan Rumahtangga di Kabupaten Samosir Menurut Kecamatan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzMjMg==/banyaknya-penduduk-dan-rumahtangga-di-kabupaten-samosir-menurut-kecamatan.html"
+        },
+        "2": {
+            "id": "MTc0IzI=",
+            "title": "Banyaknya Sekolah Menurut Kecamatan dan Tingkat Pendidikan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc0IzI=/banyaknya-sekolah-menurut-kecamatan-dan-tingkat-pendidikan-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTgjMQ==",
+            "title": "Banyaknya Fasilitas Kesehatan di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/MTgjMQ==/banyaknya-fasilitas-kesehatan-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "4": {
+            "id": "NDEjMg==",
+            "title": "Banyaknya Wisatawan yang Berkunjung ke Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDEjMg==/banyaknya-wisatawan-yang-berkunjung-ke-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTczIzI=",
+            "title": "Banyaknya PNS Pusat di Kabupaten Samosir  Menurut Lembaga Pemerintah dan Tingkat Pendidikan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTczIzI=/banyaknya-pns-pusat-di-kabupaten-samosir--menurut-lembaga-pemerintah-dan-tingkat-pendidikan.html"
+        },
+        "6": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "NDEjMQ==",
+            "title": "Banyaknya Penduduk Berdasarkan Kecamatan dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NDEjMQ==/banyaknya-penduduk-berdasarkan-kecamatan-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        }
+    }
+}

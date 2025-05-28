@@ -1,0 +1,219 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 557,
+            "label": "Pertanian, Kehutanan, Perikanan"
+        }
+    ],
+    "var": [
+        {
+            "val": 99,
+            "label": "Produksi Buah-buahan di Kabupaten Samosir Menurut Jenis Tanaman",
+            "unit": "Ton",
+            "subj": "Hortikultura",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Jenis Tanaman Buah",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Alpukat"
+        },
+        {
+            "val": 2,
+            "label": "Mangga"
+        },
+        {
+            "val": 3,
+            "label": "Durian"
+        },
+        {
+            "val": 4,
+            "label": "Jambu Biji"
+        },
+        {
+            "val": 5,
+            "label": "Pepaya"
+        },
+        {
+            "val": 6,
+            "label": "Pisang"
+        },
+        {
+            "val": 7,
+            "label": "Nanas"
+        },
+        {
+            "val": 8,
+            "label": "Nangka/Cempedak"
+        },
+        {
+            "val": 9,
+            "label": "Sirsak"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 109,
+            "label": "2009"
+        },
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "19901090": 2940,
+        "19901100": 2794,
+        "19901110": 1254,
+        "19901120": 410,
+        "19901130": 545,
+        "19901140": 607,
+        "19901150": 684.6,
+        "29901090": 3342,
+        "29901100": 3540,
+        "29901110": 2354,
+        "29901120": 1237,
+        "29901130": 717,
+        "29901140": 1305.8,
+        "29901150": 814.5,
+        "39901090": 3665,
+        "39901100": 3516,
+        "39901110": 201,
+        "39901120": 269,
+        "39901130": 196,
+        "39901140": 129,
+        "39901150": 142.9,
+        "49901090": 46,
+        "49901100": 48,
+        "49901110": 59,
+        "49901120": 48,
+        "49901130": 88,
+        "49901140": 125.8,
+        "49901150": 142.8,
+        "59901090": 90,
+        "59901100": 78,
+        "59901110": 50,
+        "59901120": 98,
+        "59901130": 85,
+        "59901140": 291.1,
+        "59901150": 391.7,
+        "69901090": 255,
+        "69901100": 238,
+        "69901110": 215,
+        "69901120": 117,
+        "69901130": 123,
+        "69901140": 78.6,
+        "69901150": 76.2,
+        "79901090": 8,
+        "79901100": 9,
+        "79901110": 8,
+        "79901120": 23,
+        "79901130": 26,
+        "79901140": 10.6,
+        "79901150": 9.1,
+        "89901090": 10,
+        "89901100": 8,
+        "89901110": 2,
+        "89901120": 10,
+        "89901130": 11,
+        "89901140": 6.4,
+        "89901150": 8.3,
+        "99901090": 12,
+        "99901100": 10,
+        "99901110": 10,
+        "99901120": 37,
+        "99901130": 21,
+        "99901140": 27.4,
+        "99901150": 20.4
+    },
+    "related": {
+        "1": {
+            "id": "VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==",
+            "title": "Produksi Tanaman Sayuran dan Buah–Buahan Semusim Menurut Jenis Tanaman di Kabupaten Samosir, 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==/produksi-tanaman-sayuran-dan-buah---buahan-semusim-menurut-jenis-tanaman-di-kabupaten-samosir--2018.html?year=2018"
+        },
+        "2": {
+            "id": "VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==",
+            "title": "Produksi Tanaman Sayuran dan Buah–Buahan Semusim Menurut Jenis Tanaman di Kabupaten Samosir, 2024",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==/produksi-tanaman-sayuran-dan-buah---buahan-semusim-menurut-jenis-tanaman-di-kabupaten-samosir--2024.html?year=2024"
+        },
+        "3": {
+            "id": "WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==",
+            "title": "Produksi Tanaman Buah–Buahan dan Sayuran Tahunan Menurut Jenis Tanaman di Kabupaten Samosir, 2020",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==/produksi-tanaman-buah---buahan-dan-sayuran-tahunan-menurut-jenis-tanaman-di-kabupaten-samosir--2020.html?year=2020"
+        },
+        "4": {
+            "id": "WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==",
+            "title": "Produksi Tanaman Buah–Buahan dan Sayuran Tahunan Menurut Jenis Tanaman di Kabupaten Samosir, 2023",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==/produksi-tanaman-buah---buahan-dan-sayuran-tahunan-menurut-jenis-tanaman-di-kabupaten-samosir--2023.html?year=2023"
+        },
+        "5": {
+            "id": "VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==",
+            "title": "Produksi Tanaman Sayuran dan Buah–Buahan Semusim Menurut Jenis Tanaman di Kabupaten Samosir, 2020",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/VFV4MmQxaG9kakZrVUdWeEx6aDFUMnN6WmpocVp6MDkjMw==/produksi-tanaman-sayuran-dan-buah---buahan-semusim-menurut-jenis-tanaman-di-kabupaten-samosir--2020.html?year=2020"
+        },
+        "6": {
+            "id": "WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==",
+            "title": "Produksi Tanaman Buah–Buahan dan Sayuran Tahunan Menurut Jenis Tanaman di Kabupaten Samosir, 2018",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==/produksi-tanaman-buah---buahan-dan-sayuran-tahunan-menurut-jenis-tanaman-di-kabupaten-samosir--2018.html?year=2018"
+        },
+        "7": {
+            "id": "WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==",
+            "title": "Produksi Tanaman Buah–Buahan dan Sayuran Tahunan Menurut Jenis Tanaman di Kabupaten Samosir, 2019",
+            "tablesource": 3,
+            "last_update": "2025-04-15",
+            "link": "/3/WXpSVU5uUTBOSEl5WVhGQmVESTVSVnBSVlhWeVVUMDkjMw==/produksi-tanaman-buah---buahan-dan-sayuran-tahunan-menurut-jenis-tanaman-di-kabupaten-samosir--2019.html?year=2019"
+        }
+    }
+}

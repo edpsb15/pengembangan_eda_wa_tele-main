@@ -1,0 +1,239 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 534,
+            "label": "Keuangan Pemerintah, Fiskal dan Statistik Sektor Publik"
+        }
+    ],
+    "var": [
+        {
+            "val": 147,
+            "label": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan",
+            "unit": "Dokumen",
+            "subj": "Pemerintahan",
+            "def": "",
+            "decimal": 0,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Wilayah Kabupaten - Kecamatan",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sianjur Mulamula"
+        },
+        {
+            "val": 2,
+            "label": "Harian"
+        },
+        {
+            "val": 3,
+            "label": "Sitiotio"
+        },
+        {
+            "val": 4,
+            "label": "Onan Runggu"
+        },
+        {
+            "val": 5,
+            "label": "Nainggolan"
+        },
+        {
+            "val": 6,
+            "label": "Palipi"
+        },
+        {
+            "val": 7,
+            "label": "Ronggur Nihuta"
+        },
+        {
+            "val": 8,
+            "label": "Pangururan"
+        },
+        {
+            "val": 9,
+            "label": "Simanindo"
+        },
+        {
+            "val": 10,
+            "label": "Samosir"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "114701100": 1331,
+        "1147011088": 1409,
+        "114701110": 477,
+        "114701120": 83,
+        "114701130": 238,
+        "114701140": 111,
+        "114701150": 452,
+        "114701160": 904,
+        "214701100": 1409,
+        "2147011088": 907,
+        "214701110": 566,
+        "214701120": 65,
+        "214701130": 339,
+        "214701140": 218,
+        "214701150": 120,
+        "214701160": 760,
+        "314701100": 907,
+        "3147011088": 557,
+        "314701110": 844,
+        "314701120": 50,
+        "314701130": 328,
+        "314701140": 109,
+        "314701150": 93,
+        "314701160": 635,
+        "414701100": 557,
+        "4147011088": 734,
+        "414701110": 588,
+        "414701120": 44,
+        "414701130": 402,
+        "414701140": 296,
+        "414701150": 1414,
+        "414701160": 752,
+        "514701100": 734,
+        "5147011088": 1531,
+        "514701110": 718,
+        "514701120": 94,
+        "514701130": 1092,
+        "514701140": 842,
+        "514701150": 574,
+        "514701160": 979,
+        "614701100": 1531,
+        "6147011088": 2501,
+        "614701110": 1542,
+        "614701120": 162,
+        "614701130": 826,
+        "614701140": 593,
+        "614701150": 714,
+        "614701160": 2348,
+        "714701100": 2501,
+        "7147011088": 3216,
+        "714701110": 724,
+        "714701120": 61,
+        "714701130": 207,
+        "714701140": 296,
+        "714701150": 173,
+        "714701160": 1305,
+        "814701100": 3216,
+        "8147011088": 1598,
+        "814701110": 1857,
+        "814701120": 380,
+        "814701130": 1190,
+        "814701140": 1905,
+        "814701150": 935,
+        "814701160": 3635,
+        "914701100": 1598,
+        "9147011088": 13784,
+        "914701110": 976,
+        "914701120": 137,
+        "914701130": 332,
+        "914701140": 1706,
+        "914701150": 1855,
+        "914701160": 1530,
+        "1014701100": 13784,
+        "1014701110": 8292,
+        "1014701120": 1076,
+        "1014701130": 4954,
+        "1014701140": 6076,
+        "1014701150": 6330,
+        "1014701160": 12848
+    },
+    "related": {
+        "1": {
+            "id": "MTc1IzI=",
+            "title": "Banyaknya Akta Kelahiran yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc1IzI=/banyaknya-akta-kelahiran-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan-dan-jenis-kelamin.html"
+        },
+        "2": {
+            "id": "MTc3IzI=",
+            "title": "Banyaknya Akta Kelahiran dan Kematian yang Diterbitkan di Kabupaten Samosir Setiap Bulan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc3IzI=/banyaknya-akta-kelahiran-dan-kematian-yang-diterbitkan-di-kabupaten-samosir-setiap-bulan.html"
+        },
+        "3": {
+            "id": "MTc2IzI=",
+            "title": "Banyaknya Akta Kematian yang Diterbitkan di Kabupaten Samosir Menurut Kecamatan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc2IzI=/banyaknya-akta-kematian-yang-diterbitkan-di-kabupaten-samosir-menurut-kecamatan-dan-jenis-kelamin.html"
+        },
+        "4": {
+            "id": "ODgjMg==",
+            "title": "Banyaknya Ternak yang Dipotong dan Jenis Ternak Menurut Kecamatan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/ODgjMg==/banyaknya-ternak-yang-dipotong-dan-jenis-ternak-menurut-kecamatan-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "NDEjMg==",
+            "title": "Banyaknya Wisatawan yang Berkunjung ke Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDEjMg==/banyaknya-wisatawan-yang-berkunjung-ke-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MzMjMg==",
+            "title": "Banyaknya Penduduk dan Rumahtangga di Kabupaten Samosir Menurut Kecamatan",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzMjMg==/banyaknya-penduduk-dan-rumahtangga-di-kabupaten-samosir-menurut-kecamatan.html"
+        },
+        "7": {
+            "id": "MTc0IzI=",
+            "title": "Banyaknya Sekolah Menurut Kecamatan dan Tingkat Pendidikan di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTc0IzI=/banyaknya-sekolah-menurut-kecamatan-dan-tingkat-pendidikan-di-kabupaten-samosir.html"
+        }
+    }
+}

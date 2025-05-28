@@ -1,0 +1,156 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-03-26 08:07:11",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 219,
+            "label": "[Triwulanan] Laju Pertumbuhan (y-on-y) PDRB Menurut Pengeluaran",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "",
+            "decimal": 2,
+            "note": "Sumber : BPS Kabupaten Samosir"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Konsumsi Akhir Rumah Tangga (PK-RT)"
+        },
+        {
+            "val": 2,
+            "label": "Konsumsi Akhir Pemerintah (PK-P)"
+        },
+        {
+            "val": 3,
+            "label": "Pembentukan Modal Tetap Bruto (PMTB)"
+        },
+        {
+            "val": 4,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 31,
+            "label": "Triwulan I"
+        },
+        {
+            "val": 32,
+            "label": "Triwulan II"
+        },
+        {
+            "val": 33,
+            "label": "Triwulan III"
+        },
+        {
+            "val": 34,
+            "label": "Triwulan IV"
+        },
+        {
+            "val": 35,
+            "label": "Tahunan"
+        }
+    ],
+    "datacontent": {
+        "1219012331": 5.87,
+        "1219012332": 4.44,
+        "1219012333": 5.32,
+        "1219012334": 2.28,
+        "1219012431": 4.39,
+        "1219012432": 3.88,
+        "1219012433": 3.33,
+        "1219012434": 4.53,
+        "2219012331": 4.58,
+        "2219012332": 4.31,
+        "2219012333": 5.48,
+        "2219012334": 8.68,
+        "2219012431": 0.17,
+        "2219012432": 1.11,
+        "2219012433": -0.88,
+        "2219012434": 4.86,
+        "3219012331": 4.86,
+        "3219012332": 6.84,
+        "3219012333": 4.92,
+        "3219012334": 5.81,
+        "3219012431": 1.19,
+        "3219012432": 4.6,
+        "3219012433": 4.41,
+        "3219012434": 16.12
+    },
+    "related": {
+        "1": {
+            "id": "MjI4IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (y-on-y) DRB Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjI4IzI=/-triwulanan--laju-pertumbuhan--y-on-y--drb-menurut-lapangan-usaha.html"
+        },
+        "2": {
+            "id": "MjE4IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (c-to-c) PDRB Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE4IzI=/-triwulanan--laju-pertumbuhan--c-to-c--pdrb-menurut-pengeluaran.html"
+        },
+        "3": {
+            "id": "MjE3IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (q-to-q) PDRB Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE3IzI=/-triwulanan--laju-pertumbuhan--q-to-q--pdrb-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MjI2IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (q-to-q) PDRB Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjI2IzI=/-triwulanan--laju-pertumbuhan--q-to-q--pdrb-menurut-lapangan-usaha.html"
+        },
+        "5": {
+            "id": "MjE2IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE2IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-pengeluaran.html"
+        },
+        "6": {
+            "id": "MjE1IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE1IzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "7": {
+            "id": "MTY3IzI=",
+            "title": "Laju Implisit PDRB Kabupaten Samosir menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTY3IzI=/laju-implisit-pdrb-kabupaten-samosir-menurut-pengeluaran.html"
+        }
+    }
+}

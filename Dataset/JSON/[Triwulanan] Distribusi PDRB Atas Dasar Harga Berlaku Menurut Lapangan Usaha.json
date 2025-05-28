@@ -1,0 +1,168 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-03-25 10:48:37",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 225,
+            "label": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Lapangan Usaha",
+            "def": "Distribusi PDRB harga berlaku menurut lapangan usaha menunjukkan struktur perekonomian atau peranan setiap kategori ekonomi dalam suatu wilayah. Kategori-kategori ekonomi yang mempunyai peran besar menunjukkan basis perekonomian suatu wilayah.",
+            "decimal": 2,
+            "note": "Sumber : BPS Kabupaten Samosir"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Lapangan Usaha",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Sektor Primer"
+        },
+        {
+            "val": 2,
+            "label": "Sektor Sekunder"
+        },
+        {
+            "val": 3,
+            "label": "Sektor Tersier"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 31,
+            "label": "Triwulan I"
+        },
+        {
+            "val": 32,
+            "label": "Triwulan II"
+        },
+        {
+            "val": 33,
+            "label": "Triwulan III"
+        },
+        {
+            "val": 34,
+            "label": "Triwulan IV"
+        },
+        {
+            "val": 35,
+            "label": "Tahunan"
+        }
+    ],
+    "datacontent": {
+        "1225012231": 52.18,
+        "1225012232": 52.52,
+        "1225012233": 51.05,
+        "1225012234": 51.8,
+        "1225012331": 52.6,
+        "1225012332": 52.06,
+        "1225012333": 51.63,
+        "1225012334": 50.61,
+        "1225012431": 51.69,
+        "1225012432": 50.62,
+        "1225012433": 50.84,
+        "1225012434": 49.37,
+        "2225012231": 12.32,
+        "2225012232": 12.16,
+        "2225012233": 12.67,
+        "2225012234": 12.38,
+        "2225012331": 12.04,
+        "2225012332": 11.75,
+        "2225012333": 12.87,
+        "2225012334": 13.27,
+        "2225012431": 12.42,
+        "2225012432": 12.25,
+        "2225012433": 12.94,
+        "2225012434": 13.46,
+        "3225012231": 35.5,
+        "3225012232": 35.32,
+        "3225012233": 36.28,
+        "3225012234": 35.83,
+        "3225012331": 35.36,
+        "3225012332": 36.18,
+        "3225012333": 35.51,
+        "3225012334": 36.11,
+        "3225012431": 35.89,
+        "3225012432": 37.13,
+        "3225012433": 36.22,
+        "3225012434": 37.18
+    },
+    "related": {
+        "1": {
+            "id": "MjIyIzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha ",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjIyIzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha-.html"
+        },
+        "2": {
+            "id": "MjIwIzI=",
+            "title": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjIwIzI=/-triwulanan--distribusi-pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "3": {
+            "id": "MjE1IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE1IzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MjI0IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Lapangan Usaha  ",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjI0IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-lapangan-usaha--.html"
+        },
+        "5": {
+            "id": "MTUyIzI=",
+            "title": "Distribusi Persentase PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUyIzI=/distribusi-persentase-pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTg4IzI=",
+            "title": "Distribusi Persentase Produk Domestik Bruto Atas Dasar Harga Berlaku Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2024-03-13",
+            "link": "/2/MTg4IzI=/distribusi-persentase-produk-domestik-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha.html"
+        },
+        "7": {
+            "id": "MTQ5IzI=",
+            "title": "PDRB Atas Dasar Harga Berlaku Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTQ5IzI=/pdrb-atas-dasar-harga-berlaku-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        }
+    }
+}

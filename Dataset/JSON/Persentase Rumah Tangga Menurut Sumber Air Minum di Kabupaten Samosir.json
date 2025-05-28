@@ -1,0 +1,268 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 525,
+            "label": "Pemukiman dan Perumahan"
+        }
+    ],
+    "var": [
+        {
+            "val": 121,
+            "label": "Persentase Rumah Tangga Menurut Sumber Air Minum di Kabupaten Samosir",
+            "unit": "Persen",
+            "subj": "Perumahan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Sumber Air Minum",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Air Kemasan Bermerk"
+        },
+        {
+            "val": 2,
+            "label": "Air Isi Ulang"
+        },
+        {
+            "val": 3,
+            "label": "Leding dengan Meteran"
+        },
+        {
+            "val": 4,
+            "label": "Leding Eceran"
+        },
+        {
+            "val": 5,
+            "label": "Sumur Bor"
+        },
+        {
+            "val": 6,
+            "label": "Sumur Terlindung"
+        },
+        {
+            "val": 7,
+            "label": "Sumur Tidak Terlindung"
+        },
+        {
+            "val": 8,
+            "label": "Mata Air Terlindung"
+        },
+        {
+            "val": 9,
+            "label": "Mata Air Tidak Terlindung"
+        },
+        {
+            "val": 10,
+            "label": "Air Sungai/Danau"
+        },
+        {
+            "val": 11,
+            "label": "Air Hujan"
+        },
+        {
+            "val": 12,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 109,
+            "label": "2009"
+        },
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "112101090": null,
+        "112101100": 0.34,
+        "112101110": 0.4,
+        "112101120": 0.22,
+        "112101130": 0.11,
+        "112101140": 1.05,
+        "112101150": 0.5,
+        "112101160": null,
+        "212101090": 0.16,
+        "212101100": 0.25,
+        "212101110": 0.46,
+        "212101120": 0.72,
+        "212101130": 1.97,
+        "212101140": 2.51,
+        "212101150": 3.88,
+        "212101160": 7.35,
+        "312101090": 7.75,
+        "312101100": 10.71,
+        "312101110": 8.13,
+        "312101120": 9.38,
+        "312101130": 9.6,
+        "312101140": 8.04,
+        "312101150": 9.44,
+        "312101160": 5.3,
+        "412101090": 0.15,
+        "412101100": 0.25,
+        "412101110": 0.18,
+        "412101120": null,
+        "412101130": null,
+        "412101140": null,
+        "412101150": 0.17,
+        "412101160": null,
+        "512101090": 4.37,
+        "512101100": 4.28,
+        "512101110": 1.49,
+        "512101120": 1.23,
+        "512101130": 1.93,
+        "512101140": 6.46,
+        "512101150": 8.49,
+        "512101160": 7.76,
+        "612101090": 5.48,
+        "612101100": 6.53,
+        "612101110": 4.26,
+        "612101120": 2.94,
+        "612101130": 2.33,
+        "612101140": 6.39,
+        "612101150": 2.57,
+        "612101160": 2.15,
+        "712101090": 0.78,
+        "712101100": 0.96,
+        "712101110": 0.96,
+        "712101120": 1.94,
+        "712101130": 1.21,
+        "712101140": 0.76,
+        "712101150": 0.73,
+        "712101160": 3.93,
+        "812101090": 12.85,
+        "812101100": 13.98,
+        "812101110": 18.42,
+        "812101120": 13.89,
+        "812101130": 43.3,
+        "812101140": 24.74,
+        "812101150": 17.04,
+        "812101160": 20.74,
+        "912101090": 39.01,
+        "912101100": 20.06,
+        "912101110": 19.49,
+        "912101120": 23.23,
+        "912101130": 5.82,
+        "912101140": 14.49,
+        "912101150": 13.24,
+        "912101160": 13.46,
+        "1012101090": 7.05,
+        "1012101100": 5.19,
+        "1012101110": 15.06,
+        "1012101120": 9.94,
+        "1012101130": 8.28,
+        "1012101140": 10.02,
+        "1012101150": 30.43,
+        "1012101160": 27.39,
+        "1112101090": 5.95,
+        "1112101100": 7.35,
+        "1112101110": 10.38,
+        "1112101120": 7.84,
+        "1112101130": 13.2,
+        "1112101140": 9.44,
+        "1112101150": 13.3,
+        "1112101160": 11.91,
+        "1212101090": 16.44,
+        "1212101100": 30.1,
+        "1212101110": 20.77,
+        "1212101120": 28.68,
+        "1212101130": 12.25,
+        "1212101140": 16.1,
+        "1212101150": 0.22,
+        "1212101160": null
+    },
+    "related": {
+        "1": {
+            "id": "MTE5IzI=",
+            "title": "Persentase Rumah Tangga Menurut Fasilitas Air Minum di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTE5IzI=/persentase-rumah-tangga-menurut-fasilitas-air-minum-di-kabupaten-samosir.html"
+        },
+        "2": {
+            "id": "MTIyIzI=",
+            "title": "Persentase Rumah Tangga Menurut Sumber Penerangan Utama di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTIyIzI=/persentase-rumah-tangga-menurut-sumber-penerangan-utama-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTI4IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Dinding Rumah Terluas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTI4IzI=/persentase-rumah-tangga-menurut-jenis-dinding-rumah-terluas-di-kabupaten-samosir.html"
+        },
+        "4": {
+            "id": "MTI2IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Atap Rumah Terbanyak di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTI2IzI=/persentase-rumah-tangga-menurut-jenis-atap-rumah-terbanyak-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTI5IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Lantai Terluas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTI5IzI=/persentase-rumah-tangga-menurut-jenis-lantai-terluas-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTMyIzI=",
+            "title": "Persentase Rumah Tangga By Luas Lantai di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTMyIzI=/persentase-rumah-tangga-by-luas-lantai-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTE0IzI=",
+            "title": "Persentase Rumah Tangga Menurut Fasilitas Buang Air Besar di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTE0IzI=/persentase-rumah-tangga-menurut-fasilitas-buang-air-besar-di-kabupaten-samosir.html"
+        }
+    }
+}

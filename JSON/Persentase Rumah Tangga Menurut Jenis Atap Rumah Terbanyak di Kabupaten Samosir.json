@@ -1,0 +1,186 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 525,
+            "label": "Pemukiman dan Perumahan"
+        }
+    ],
+    "var": [
+        {
+            "val": 126,
+            "label": "Persentase Rumah Tangga Menurut Jenis Atap Rumah Terbanyak di Kabupaten Samosir",
+            "unit": "Persen",
+            "subj": "Perumahan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Jenis Atap Rumah Terbanyak",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Beton"
+        },
+        {
+            "val": 2,
+            "label": "Genteng"
+        },
+        {
+            "val": 3,
+            "label": "Sirap"
+        },
+        {
+            "val": 4,
+            "label": "Seng"
+        },
+        {
+            "val": 5,
+            "label": "Asbes"
+        },
+        {
+            "val": 6,
+            "label": "Ijuk/Daun"
+        },
+        {
+            "val": 7,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "112601100": 2.42,
+        "112601110": 0.02,
+        "112601120": 1.54,
+        "112601130": 0.98,
+        "112601140": 0.36,
+        "112601150": 0.64,
+        "112601160": 1.83,
+        "212601100": 2.72,
+        "212601110": 0.78,
+        "212601120": 1.28,
+        "212601130": 2.82,
+        "212601140": 1.77,
+        "212601150": 1.94,
+        "212601160": 1.3,
+        "312601130": 1.04,
+        "312601140": 0.22,
+        "312601150": 1.06,
+        "312601160": 0.7,
+        "412601100": 93.81,
+        "412601110": 97.17,
+        "412601120": 96.71,
+        "412601130": 92.63,
+        "412601140": 96.24,
+        "412601150": 93.76,
+        "412601160": 93.3,
+        "512601100": 1.05,
+        "512601110": 1.4,
+        "512601130": 2.53,
+        "512601140": 1.42,
+        "512601150": 2.59,
+        "512601160": 2.37,
+        "612601110": 0.26,
+        "612601120": 0.48,
+        "612601150": null,
+        "612601160": null,
+        "712601110": 0.36,
+        "712601150": null,
+        "712601160": 0.5
+    },
+    "related": {
+        "1": {
+            "id": "MTI5IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Lantai Terluas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTI5IzI=/persentase-rumah-tangga-menurut-jenis-lantai-terluas-di-kabupaten-samosir.html"
+        },
+        "2": {
+            "id": "MTI4IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Dinding Rumah Terluas di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTI4IzI=/persentase-rumah-tangga-menurut-jenis-dinding-rumah-terluas-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTE2IzI=",
+            "title": "Persentase Rumah Tangga Menurut Jenis Tempat Pembuangan Air Besar di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTE2IzI=/persentase-rumah-tangga-menurut-jenis-tempat-pembuangan-air-besar-di-kabupaten-samosir.html"
+        },
+        "4": {
+            "id": "MTIyIzI=",
+            "title": "Persentase Rumah Tangga Menurut Sumber Penerangan Utama di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTIyIzI=/persentase-rumah-tangga-menurut-sumber-penerangan-utama-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTE5IzI=",
+            "title": "Persentase Rumah Tangga Menurut Fasilitas Air Minum di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTE5IzI=/persentase-rumah-tangga-menurut-fasilitas-air-minum-di-kabupaten-samosir.html"
+        },
+        "6": {
+            "id": "MTIxIzI=",
+            "title": "Persentase Rumah Tangga Menurut Sumber Air Minum di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTIxIzI=/persentase-rumah-tangga-menurut-sumber-air-minum-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTMyIzI=",
+            "title": "Persentase Rumah Tangga By Luas Lantai di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTMyIzI=/persentase-rumah-tangga-by-luas-lantai-di-kabupaten-samosir.html"
+        }
+    }
+}

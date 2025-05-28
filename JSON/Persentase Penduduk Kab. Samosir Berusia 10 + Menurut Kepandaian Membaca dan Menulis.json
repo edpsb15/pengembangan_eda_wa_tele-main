@@ -1,0 +1,234 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": null,
+    "subject": [
+        {
+            "val": 521,
+            "label": "Pendidikan"
+        }
+    ],
+    "var": [
+        {
+            "val": 75,
+            "label": "Persentase Penduduk Kab. Samosir Berusia 10 + Menurut Kepandaian Membaca dan Menulis",
+            "unit": "Persen",
+            "subj": "Pendidikan",
+            "def": "",
+            "decimal": null,
+            "note": ""
+        }
+    ],
+    "turvar": [
+        {
+            "val": 34,
+            "label": "Laki-laki"
+        },
+        {
+            "val": 35,
+            "label": "Perempuan"
+        },
+        {
+            "val": 36,
+            "label": "Laki-laki + Perempuan"
+        }
+    ],
+    "labelvervar": "Kepandaian Membaca  dan Menulis",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Huruf Latin"
+        },
+        {
+            "val": 2,
+            "label": "Huruf Arab"
+        },
+        {
+            "val": 3,
+            "label": "Huruf Lainnya"
+        },
+        {
+            "val": 4,
+            "label": "Melek Huruf"
+        },
+        {
+            "val": 5,
+            "label": "Buta Huruf"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 110,
+            "label": "2010"
+        },
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "175341100": 98.25,
+        "175341110": 99.27,
+        "175341130": 99.29,
+        "175341140": 99.53,
+        "175341150": 99.06,
+        "175341160": 98.83,
+        "175351100": 95.18,
+        "175351110": 96.35,
+        "175351130": 97.03,
+        "175351140": 95.2,
+        "175351150": 96.18,
+        "175351160": 95.69,
+        "175361100": 96.72,
+        "175361110": 97.84,
+        "175361130": 98.14,
+        "175361140": 97.34,
+        "175361150": 97.59,
+        "175361160": 97.24,
+        "275341100": 1.5,
+        "275341110": 0.51,
+        "275341130": 0.84,
+        "275341140": 0.68,
+        "275341150": 2.41,
+        "275341160": 1.33,
+        "275351100": 1.48,
+        "275351110": 0.57,
+        "275351130": 1.22,
+        "275351140": 0.94,
+        "275351150": 1.4,
+        "275351160": 0.73,
+        "275361100": 1.49,
+        "275361110": 0.54,
+        "275361130": 1.03,
+        "275361140": 0.81,
+        "275361150": 1.89,
+        "275361160": 1.03,
+        "375341100": 28.04,
+        "375341110": 14.66,
+        "375341130": 6.19,
+        "375341140": 7.55,
+        "375341150": 6.38,
+        "375341160": 12.1,
+        "375351100": 26.45,
+        "375351110": 10.82,
+        "375351130": 4.69,
+        "375351140": 12.12,
+        "375351150": 6.33,
+        "375351160": 9.92,
+        "375361100": 27.25,
+        "375361110": 12.79,
+        "375361130": 5.43,
+        "375361140": 9.86,
+        "375361150": 6.35,
+        "375361160": 11,
+        "475341100": 98.25,
+        "475341110": 99.27,
+        "475341130": 99.72,
+        "475341140": 99.75,
+        "475341150": 99.06,
+        "475341160": 99.45,
+        "475351100": 95.43,
+        "475351110": 96.35,
+        "475351130": 97.09,
+        "475351140": 99.86,
+        "475351150": 97.4,
+        "475351160": 96.08,
+        "475361100": 96.85,
+        "475361110": 97.84,
+        "475361130": 98.39,
+        "475361140": 99.81,
+        "475361150": 98.21,
+        "475361160": 97.74,
+        "575341100": 1.75,
+        "575341110": 0.73,
+        "575341130": 0.28,
+        "575341140": 0.25,
+        "575341150": 0.94,
+        "575341160": 0.55,
+        "575351100": 4.37,
+        "575351110": 3.65,
+        "575351130": 2.91,
+        "575351140": 0.14,
+        "575351150": 2.6,
+        "575351160": 3.92,
+        "575361100": 3.15,
+        "575361110": 2.16,
+        "575361130": 1.61,
+        "575361140": 0.19,
+        "575361150": 1.79,
+        "575361160": 2.26
+    },
+    "related": {
+        "1": {
+            "id": "NzcjMg==",
+            "title": "Persentase Penduduk Kab. Samosir Berusia 10+ By Ijazah/STTB Tertinggi yg Dimiliki dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzcjMg==/persentase-penduduk-kab--samosir-berusia-10--by-ijazah-sttb-tertinggi-yg-dimiliki-dan-jenis-kelamin.html"
+        },
+        "2": {
+            "id": "MzkjMg==",
+            "title": "Persentase Penduduk Kabupaten Samosir Berusia 10+ Menurut Partisipasi Sekolah dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MzkjMg==/persentase-penduduk-kabupaten-samosir-berusia-10--menurut-partisipasi-sekolah-dan-jenis-kelamin.html"
+        },
+        "3": {
+            "id": "NTkjMg==",
+            "title": "Penduduk Kabupaten Samosir Berusia 15 Tahun ke Atas Menurut Kegiatan Seminggu yang Lalu",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NTkjMg==/penduduk-kabupaten-samosir-berusia-15-tahun-ke-atas-menurut-kegiatan-seminggu-yang-lalu.html"
+        },
+        "4": {
+            "id": "NzAjMg==",
+            "title": "Penduduk Kab. Samosir 15+ Termasuk Pengangguran By Pendidikan Tertinggi Ditamatkan dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NzAjMg==/penduduk-kab--samosir-15--termasuk-pengangguran-by-pendidikan-tertinggi-ditamatkan-dan-jenis-kelamin.html"
+        },
+        "5": {
+            "id": "NDAjMg==",
+            "title": "Persentase Penduduk Kabupaten Samosir yang Masih Sekolah Menurut Kelompok Umur dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NDAjMg==/persentase-penduduk-kabupaten-samosir-yang-masih-sekolah-menurut-kelompok-umur-dan-jenis-kelamin.html"
+        },
+        "6": {
+            "id": "OCMx",
+            "title": "Presentase Penduduk 10 Tahun ke Atas Menurut Status Perkawinan dan Jenis Kelamin di Kabupaten Samosir Tahun 2015",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/OCMx/presentase-penduduk-10-tahun-ke-atas-menurut-status-perkawinan-dan-jenis-kelamin-di-kabupaten-samosir-tahun-2015.html"
+        },
+        "7": {
+            "id": "NjEjMg==",
+            "title": "Penduduk Kab. Samosir 15+ yang termasuk Angkatan Kerja By Pendidikan Tertinggi dan Jenis Kelamin",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/NjEjMg==/penduduk-kab--samosir-15--yang-termasuk-angkatan-kerja-by-pendidikan-tertinggi-dan-jenis-kelamin.html"
+        }
+    }
+}

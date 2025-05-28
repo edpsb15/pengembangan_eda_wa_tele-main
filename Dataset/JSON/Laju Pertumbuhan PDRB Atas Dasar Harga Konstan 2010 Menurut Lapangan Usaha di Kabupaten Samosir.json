@@ -1,0 +1,472 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-02-27 03:59:36",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 153,
+            "label": "Laju Pertumbuhan PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Lapangan Usaha",
+            "def": "Distribusi PDRB harga berlaku menurut lapangan usaha menunjukkan struktur perekonomian atau peranan setiap kategori ekonomi dalam suatu wilayah. Kategori-kategori ekonomi yang mempunyai peran besar menunjukkan basis perekonomian suatu wilayah.",
+            "decimal": 2,
+            "note": "* Angka Sementara (2023)\n** Angka Sangat Sementara (2024)"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Kategori/Lapangan Usaha",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "A. Pertanian, Kehutanan, dan Perikanant"
+        },
+        {
+            "val": 2,
+            "label": "B. Pertambangan dan Penggalian t"
+        },
+        {
+            "val": 3,
+            "label": "C. Industri Pengolahan"
+        },
+        {
+            "val": 4,
+            "label": "D. Pengadaan Listrik dan Gas"
+        },
+        {
+            "val": 5,
+            "label": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+        },
+        {
+            "val": 6,
+            "label": "F. Konstruksi"
+        },
+        {
+            "val": 7,
+            "label": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+        },
+        {
+            "val": 8,
+            "label": "H. Transportasi dan Pergudangan"
+        },
+        {
+            "val": 9,
+            "label": "I. Penyediaan Akomodasi dan Makan Minum"
+        },
+        {
+            "val": 10,
+            "label": "J. Informasi dan Komunikasi"
+        },
+        {
+            "val": 11,
+            "label": "K. Jasa Keuangan dan Asuransi"
+        },
+        {
+            "val": 12,
+            "label": "L. Real Estat"
+        },
+        {
+            "val": 13,
+            "label": "M,N. Jasa Perusahaan"
+        },
+        {
+            "val": 14,
+            "label": "O. Administrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib"
+        },
+        {
+            "val": 15,
+            "label": "P. Jasa Pendidikan"
+        },
+        {
+            "val": 16,
+            "label": "Q. Jasa Kesehatan dan Kegiatan Sosial"
+        },
+        {
+            "val": 17,
+            "label": "R,S,T,U. Jasa lainnya"
+        },
+        {
+            "val": 18,
+            "label": "PDRB"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 111,
+            "label": "2011"
+        },
+        {
+            "val": 112,
+            "label": "2012"
+        },
+        {
+            "val": 113,
+            "label": "2013"
+        },
+        {
+            "val": 114,
+            "label": "2014"
+        },
+        {
+            "val": 115,
+            "label": "2015"
+        },
+        {
+            "val": 116,
+            "label": "2016"
+        },
+        {
+            "val": 117,
+            "label": "2017"
+        },
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        },
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "115301110": 3.89,
+        "115301120": 6.65,
+        "115301130": 6.12,
+        "115301140": 5.82,
+        "115301150": 5.28,
+        "115301160": 4.98,
+        "115301170": 5.35,
+        "115301180": 5.36,
+        "115301190": 4.63,
+        "115301200": -0.28,
+        "115301210": 2.51,
+        "115301220": 4.59,
+        "115301230": 4.46,
+        "115301240": 2.24,
+        "215301110": 7.43,
+        "215301120": 7.51,
+        "215301130": 7.55,
+        "215301140": 7.15,
+        "215301150": 7.09,
+        "215301160": 7,
+        "215301170": 7.61,
+        "215301180": 6.48,
+        "215301190": 5.81,
+        "215301200": 2.43,
+        "215301210": 3.01,
+        "215301220": 3.03,
+        "215301230": 4.8,
+        "215301240": 5.36,
+        "315301110": 3.8,
+        "315301120": 4.15,
+        "315301130": 3.06,
+        "315301140": 3.16,
+        "315301150": 3.81,
+        "315301160": 2.65,
+        "315301170": 2.7,
+        "315301180": 2.57,
+        "315301190": 3.42,
+        "315301200": 1.09,
+        "315301210": 1.67,
+        "315301220": 2.61,
+        "315301230": 3.53,
+        "315301240": 4.27,
+        "415301110": 7.63,
+        "415301120": 7.58,
+        "415301130": 8.11,
+        "415301140": 10.92,
+        "415301150": 8.59,
+        "415301160": 2.3,
+        "415301170": 3.4,
+        "415301180": 2.35,
+        "415301190": 3.39,
+        "415301200": 5.61,
+        "415301210": 4.8,
+        "415301220": 6.19,
+        "415301230": 4.1,
+        "415301240": 6.88,
+        "515301110": 6.33,
+        "515301120": 6.8,
+        "515301130": 4.9,
+        "515301140": 5.24,
+        "515301150": 5.52,
+        "515301160": 5.7,
+        "515301170": 5.78,
+        "515301180": 3.6,
+        "515301190": 4.31,
+        "515301200": 3.11,
+        "515301210": 2.04,
+        "515301220": 4.48,
+        "515301230": 4.18,
+        "515301240": 2.72,
+        "615301110": 6.31,
+        "615301120": 5.93,
+        "615301130": 5.12,
+        "615301140": 5.09,
+        "615301150": 5.87,
+        "615301160": 6.92,
+        "615301170": 7.52,
+        "615301180": 8.18,
+        "615301190": 8.16,
+        "615301200": -3.35,
+        "615301210": 4.83,
+        "615301220": 4.32,
+        "615301230": 5.92,
+        "615301240": 7.16,
+        "715301110": 8.24,
+        "715301120": 2.01,
+        "715301130": 6.52,
+        "715301140": 6.15,
+        "715301150": 6.49,
+        "715301160": 6.91,
+        "715301170": 4.96,
+        "715301180": 5.04,
+        "715301190": 6.15,
+        "715301200": -0.42,
+        "715301210": 5.21,
+        "715301220": 6.91,
+        "715301230": 6.34,
+        "715301240": 9.93,
+        "815301110": 5.61,
+        "815301120": 6.17,
+        "815301130": 6.7,
+        "815301140": 6.62,
+        "815301150": 7.79,
+        "815301160": 7.81,
+        "815301170": 7.84,
+        "815301180": 6.91,
+        "815301190": 9.87,
+        "815301200": -3.81,
+        "815301210": 2.02,
+        "815301220": 8.65,
+        "815301230": 7.17,
+        "815301240": 9.84,
+        "915301110": 6,
+        "915301120": 6.43,
+        "915301130": 7.4,
+        "915301140": 7.12,
+        "915301150": 7.32,
+        "915301160": 7.9,
+        "915301170": 7.92,
+        "915301180": 7.43,
+        "915301190": 9.83,
+        "915301200": -2.86,
+        "915301210": 0.03,
+        "915301220": 6.95,
+        "915301230": 9.69,
+        "915301240": 14.47,
+        "1015301110": 8.21,
+        "1015301120": 8.42,
+        "1015301130": 8.91,
+        "1015301140": 7.58,
+        "1015301150": 5.53,
+        "1015301160": 7.61,
+        "1015301170": 7.65,
+        "1015301180": 7.3,
+        "1015301190": 9.01,
+        "1015301200": 8.55,
+        "1015301210": 7.76,
+        "1015301220": 6.54,
+        "1015301230": 5.19,
+        "1015301240": 5.26,
+        "1115301110": 7.08,
+        "1115301120": 7.99,
+        "1115301130": 7.95,
+        "1115301140": 4.62,
+        "1115301150": 4.54,
+        "1115301160": 4.74,
+        "1115301170": 4.84,
+        "1115301180": 4.7,
+        "1115301190": 4.96,
+        "1115301200": 3.8,
+        "1115301210": 5.84,
+        "1115301220": 4.18,
+        "1115301230": 0.41,
+        "1115301240": 0.47,
+        "1215301110": 5.51,
+        "1215301120": 6.29,
+        "1215301130": 5.33,
+        "1215301140": 4.39,
+        "1215301150": 4.58,
+        "1215301160": 5.6,
+        "1215301170": 5.58,
+        "1215301180": 2.97,
+        "1215301190": 4.24,
+        "1215301200": 3.97,
+        "1215301210": 0.4,
+        "1215301220": 2.11,
+        "1215301230": 1.81,
+        "1215301240": 1.32,
+        "1315301110": 4.2,
+        "1315301120": 4.48,
+        "1315301130": 3.94,
+        "1315301140": 4.08,
+        "1315301150": 3.55,
+        "1315301160": 5.24,
+        "1315301170": 5.57,
+        "1315301180": 3.89,
+        "1315301190": 4.33,
+        "1315301200": 2.75,
+        "1315301210": 2.94,
+        "1315301220": 2.07,
+        "1315301230": 2.09,
+        "1315301240": 1.15,
+        "1415301110": 6.52,
+        "1415301120": 6.89,
+        "1415301130": 5.69,
+        "1415301140": 6.97,
+        "1415301150": 6.64,
+        "1415301160": 1.7,
+        "1415301170": 1.8,
+        "1415301180": 3.99,
+        "1415301190": 4.9,
+        "1415301200": -0.3,
+        "1415301210": -0.46,
+        "1415301220": -0.05,
+        "1415301230": 3.82,
+        "1415301240": 6.02,
+        "1515301110": 3.92,
+        "1515301120": 4.96,
+        "1515301130": 4.69,
+        "1515301140": 4.76,
+        "1515301150": 7.28,
+        "1515301160": 6,
+        "1515301170": 5.96,
+        "1515301180": 5.97,
+        "1515301190": 5.56,
+        "1515301200": 4.57,
+        "1515301210": 4.65,
+        "1515301220": 0.08,
+        "1515301230": 2.82,
+        "1515301240": 1.82,
+        "1615301110": 5.14,
+        "1615301120": 6.02,
+        "1615301130": 9.16,
+        "1615301140": 4.9,
+        "1615301150": 0.76,
+        "1615301160": 5.6,
+        "1615301170": 5.67,
+        "1615301180": 5.68,
+        "1615301190": 6.05,
+        "1615301200": -0.13,
+        "1615301210": -1.16,
+        "1615301220": 1.6,
+        "1615301230": 4.6,
+        "1615301240": 3.44,
+        "1715301110": 3.11,
+        "1715301120": 2.95,
+        "1715301130": 3.26,
+        "1715301140": 4.41,
+        "1715301150": 3.54,
+        "1715301160": 6.47,
+        "1715301170": 6.58,
+        "1715301180": 6.07,
+        "1715301190": 7.84,
+        "1715301200": -0.27,
+        "1715301210": 2.85,
+        "1715301220": 9.68,
+        "1715301230": 8.56,
+        "1715301240": 15.85,
+        "1815301110": 5.18,
+        "1815301120": 6.05,
+        "1815301130": 6.1,
+        "1815301140": 5.95,
+        "1815301150": 5.77,
+        "1815301160": 5.27,
+        "1815301170": 5.35,
+        "1815301180": 5.58,
+        "1815301190": 5.7,
+        "1815301200": -0.59,
+        "1815301210": 2.65,
+        "1815301220": 4.48,
+        "1815301230": 5.03,
+        "1815301240": 5.02
+    },
+    "related": {
+        "1": {
+            "id": "MTY1IzI=",
+            "title": "Laju Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY1IzI=/laju-pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "NzYjMQ==",
+            "title": "Laju Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha Tahun 2011-2016 (Persen)",
+            "tablesource": 1,
+            "last_update": "2018-03-20",
+            "link": "/1/NzYjMQ==/laju-pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-tahun-2011-2016--persen-.html"
+        },
+        "3": {
+            "id": "MTkyIzI=",
+            "title": "Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTkyIzI=/pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MTUxIzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUxIzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        },
+        "5": {
+            "id": "MTUwIzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha Tahun 2010-2016",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTUwIzI=/pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-tahun-2010-2016.html"
+        },
+        "6": {
+            "id": "MTY0IzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY0IzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "YURKcWVFYzRNVEpsT1dSYVJXRk9RMVE0VUU1VVFUMDkjMw==",
+            "title": "Laju Pertumbuhan Produk Domestik Regional Bruto Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir (persen), 2024",
+            "tablesource": 3,
+            "last_update": "2025-04-13",
+            "link": "/3/YURKcWVFYzRNVEpsT1dSYVJXRk9RMVE0VUU1VVFUMDkjMw==/laju-pertumbuhan-produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir--persen---2024.html?year=2024"
+        }
+    }
+}

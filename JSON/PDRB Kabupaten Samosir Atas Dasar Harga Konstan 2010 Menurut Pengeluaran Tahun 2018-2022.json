@@ -1,0 +1,175 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2023-02-28 01:31:35",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 195,
+            "label": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran Tahun 2018-2022",
+            "unit": "Ribu Rupiah",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran Tahun 2018-2022",
+            "decimal": 2,
+            "note": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran Tahun 2018-2022"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen PDRB Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "1. Pengeluaran Konsumsi Rumahtangga"
+        },
+        {
+            "val": 2,
+            "label": "2. Pengeluaran Konsumsi LNPRT"
+        },
+        {
+            "val": 3,
+            "label": "3. Pengeluaran Konsumsi Pemerintah"
+        },
+        {
+            "val": 4,
+            "label": "4. Pembentukan Modal Tetap Bruto"
+        },
+        {
+            "val": 5,
+            "label": "5. Perubahan Inventori"
+        },
+        {
+            "val": 6,
+            "label": "6. Net Ekspor Barang dan Jasa"
+        },
+        {
+            "val": 7,
+            "label": "PRODUK DOMESTIK REGIONAL BRUTO"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 118,
+            "label": "2018"
+        },
+        {
+            "val": 119,
+            "label": "2019"
+        },
+        {
+            "val": 120,
+            "label": "2020"
+        },
+        {
+            "val": 121,
+            "label": "2021"
+        },
+        {
+            "val": 122,
+            "label": "2022"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 0,
+            "label": "Tahun"
+        }
+    ],
+    "datacontent": {
+        "119501180": 1628828476.38,
+        "119501190": 1721838614.34,
+        "119501200": 1697571388.93,
+        "119501210": 1742425106.02,
+        "119501220": 1838066843.34,
+        "219501180": 65491096.08,
+        "219501190": 71850517.71,
+        "219501200": 72857434.57,
+        "219501210": 73500306.3,
+        "219501220": 77535473.11,
+        "319501180": 679969210.27,
+        "319501190": 694762694.55,
+        "319501200": 692465203.05,
+        "319501210": 698088463.2,
+        "319501220": 697809227.81,
+        "419501180": 424699397.8,
+        "419501190": 463333295.58,
+        "419501200": 449042615.33,
+        "419501210": 474294746.09,
+        "419501220": 502316817.26,
+        "519501180": 155118223.8,
+        "519501190": 159507677.26,
+        "519501200": 174727891.83,
+        "519501210": 178264286.42,
+        "519501220": 188337185.03,
+        "619501180": -22408260.67,
+        "619501190": -12551891.18,
+        "619501200": -6236601.09,
+        "619501210": -4471881.76,
+        "619501220": -209877.54,
+        "719501180": 2931698143.66,
+        "719501190": 3098740908.26,
+        "719501200": 3080427932.6,
+        "719501210": 3162101026.27,
+        "719501220": 3303855669.02
+    },
+    "related": {
+        "1": {
+            "id": "MTkyIzI=",
+            "title": "Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTkyIzI=/pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "MTY0IzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Jenis Pengeluaran di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY0IzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-jenis-pengeluaran-di-kabupaten-samosir.html"
+        },
+        "3": {
+            "id": "MTY1IzI=",
+            "title": "Laju Pertumbuhan PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-02-28",
+            "link": "/2/MTY1IzI=/laju-pertumbuhan-pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MTk0IzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Berlaku menurut Pengeluaran Tahun 2018-2022",
+            "tablesource": 2,
+            "last_update": "2023-02-28",
+            "link": "/2/MTk0IzI=/pdrb-kabupaten-samosir-atas-dasar-harga-berlaku-menurut-pengeluaran-tahun-2018-2022.html"
+        },
+        "5": {
+            "id": "MTUwIzI=",
+            "title": "PDRB Kabupaten Samosir Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha Tahun 2010-2016",
+            "tablesource": 2,
+            "last_update": null,
+            "link": "/2/MTUwIzI=/pdrb-kabupaten-samosir-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-tahun-2010-2016.html"
+        },
+        "6": {
+            "id": "MTUxIzI=",
+            "title": "PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUxIzI=/pdrb-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        },
+        "7": {
+            "id": "MTUzIzI=",
+            "title": "Laju Pertumbuhan PDRB Atas Dasar Harga Konstan 2010 Menurut Lapangan Usaha di Kabupaten Samosir",
+            "tablesource": 2,
+            "last_update": "2025-02-27",
+            "link": "/2/MTUzIzI=/laju-pertumbuhan-pdrb-atas-dasar-harga-konstan-2010-menurut-lapangan-usaha-di-kabupaten-samosir.html"
+        }
+    }
+}

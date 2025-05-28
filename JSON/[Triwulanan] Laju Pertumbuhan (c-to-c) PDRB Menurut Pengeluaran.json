@@ -1,0 +1,160 @@
+{
+    "status": "OK",
+    "data-availability": "available",
+    "last_update": "2025-03-26 08:07:34",
+    "subject": [
+        {
+            "val": 531,
+            "label": "Neraca Ekonomi"
+        }
+    ],
+    "var": [
+        {
+            "val": 218,
+            "label": "[Triwulanan] Laju Pertumbuhan (c-to-c) PDRB Menurut Pengeluaran",
+            "unit": "Persen",
+            "subj": "Produk Domestik Regional Bruto Menurut Pengeluaran",
+            "def": "PDRB Menurut Pengeluaran adalah  semua  komponen permintaan  akhir  yang  terdiri  dari:  (1) pengeluaran  konsumsi  akhir  rumah tangga  (2)  pengeluaran  konsumsi  akhir lembaga non profit yang melayani rumah tangga  (3)  pengeluaran  konsumsi  akhir pemerintah,  (4)  pembentukan  modal tetap  domestik  bruto,  (5)  perubahan inventori,  dan  (6)  ekspor  neto  (ekspor dikurangi impor)",
+            "decimal": 2,
+            "note": "Sumber : BPS Kabupaten Samosir"
+        }
+    ],
+    "turvar": [
+        {
+            "val": "0",
+            "label": "Tidak ada"
+        }
+    ],
+    "labelvervar": "Komponen Pengeluaran",
+    "vervar": [
+        {
+            "val": 1,
+            "label": "Konsumsi Akhir Rumah Tangga (PK-RT)"
+        },
+        {
+            "val": 2,
+            "label": "Konsumsi Akhir Pemerintah (PK-P)"
+        },
+        {
+            "val": 3,
+            "label": "Pembentukan Modal Tetap Bruto (PMTB)"
+        },
+        {
+            "val": 4,
+            "label": "Lainnya"
+        }
+    ],
+    "tahun": [
+        {
+            "val": 123,
+            "label": "2023"
+        },
+        {
+            "val": 124,
+            "label": "2024"
+        }
+    ],
+    "turtahun": [
+        {
+            "val": 31,
+            "label": "Triwulan I"
+        },
+        {
+            "val": 32,
+            "label": "Triwulan II"
+        },
+        {
+            "val": 33,
+            "label": "Triwulan III"
+        },
+        {
+            "val": 34,
+            "label": "Triwulan IV"
+        },
+        {
+            "val": 35,
+            "label": "Tahunan"
+        }
+    ],
+    "datacontent": {
+        "1218012331": 7.77,
+        "1218012332": 8.04,
+        "1218012333": 7,
+        "1218012334": 6.17,
+        "1218012431": 4.39,
+        "1218012432": 4.13,
+        "1218012433": 3.86,
+        "1218012434": 4.03,
+        "2218012331": -2.3,
+        "2218012332": 3.91,
+        "2218012333": 2.73,
+        "2218012334": 2.87,
+        "2218012431": 0.17,
+        "2218012432": 0.67,
+        "2218012433": 0.16,
+        "2218012434": 1.34,
+        "3218012331": 10.25,
+        "3218012332": 5.76,
+        "3218012333": 5.95,
+        "3218012334": 5.69,
+        "3218012431": 1.19,
+        "3218012432": 2.88,
+        "3218012433": 3.42,
+        "3218012434": 6.68,
+        "4218012331": 0.75,
+        "4218012332": -8.76,
+        "4218012333": -0.93,
+        "4218012334": 1.52
+    },
+    "related": {
+        "1": {
+            "id": "MjE3IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (q-to-q) PDRB Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE3IzI=/-triwulanan--laju-pertumbuhan--q-to-q--pdrb-menurut-pengeluaran.html"
+        },
+        "2": {
+            "id": "MjMxIzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (c-to-c) DRB Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjMxIzI=/-triwulanan--laju-pertumbuhan--c-to-c--drb-menurut-lapangan-usaha.html"
+        },
+        "3": {
+            "id": "MjE5IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (y-on-y) PDRB Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE5IzI=/-triwulanan--laju-pertumbuhan--y-on-y--pdrb-menurut-pengeluaran.html"
+        },
+        "4": {
+            "id": "MjI2IzI=",
+            "title": "[Triwulanan] Laju Pertumbuhan (q-to-q) PDRB Menurut Lapangan Usaha",
+            "tablesource": 2,
+            "last_update": "2025-03-25",
+            "link": "/2/MjI2IzI=/-triwulanan--laju-pertumbuhan--q-to-q--pdrb-menurut-lapangan-usaha.html"
+        },
+        "5": {
+            "id": "MjE2IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Konstan Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE2IzI=/-triwulanan--pdrb-atas-dasar-harga-konstan-menurut-pengeluaran.html"
+        },
+        "6": {
+            "id": "MjIwIzI=",
+            "title": "[Triwulanan] Distribusi PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjIwIzI=/-triwulanan--distribusi-pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        },
+        "7": {
+            "id": "MjE1IzI=",
+            "title": "[Triwulanan] PDRB Atas Dasar Harga Berlaku Menurut Pengeluaran",
+            "tablesource": 2,
+            "last_update": "2025-03-26",
+            "link": "/2/MjE1IzI=/-triwulanan--pdrb-atas-dasar-harga-berlaku-menurut-pengeluaran.html"
+        }
+    }
+}
